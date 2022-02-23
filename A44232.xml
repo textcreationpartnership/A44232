@@ -1,0 +1,2287 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An appendix to Holwel's Catastrophe mundi being an astrological discourse of the rise, growth and continuation of the Othoman family : with the nativities of the present French king, emperors of Germany and Turky, all truly rectifyed, and astrologically handled : also, what progress this present emperor of Turky shall make upon Europe in this intended war with the House of Austria : where unto is added a supplement of the judgment of comet / by John Holwel ...</title>
+            <author>Holwell, John, 1649-1686?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 122 KB of XML-encoded text transcribed from 25 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A44232</idno>
+            <idno type="STC">Wing H2515</idno>
+            <idno type="STC">ESTC R2520</idno>
+            <idno type="EEBO-CITATION">12780133</idno>
+            <idno type="OCLC">ocm 12780133</idno>
+            <idno type="VID">93807</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A44232)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 93807)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 983:46)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An appendix to Holwel's Catastrophe mundi being an astrological discourse of the rise, growth and continuation of the Othoman family : with the nativities of the present French king, emperors of Germany and Turky, all truly rectifyed, and astrologically handled : also, what progress this present emperor of Turky shall make upon Europe in this intended war with the House of Austria : where unto is added a supplement of the judgment of comet / by John Holwel ...</title>
+                  <author>Holwell, John, 1649-1686?</author>
+                  <author>Holwell, John, 1649-1686? Catastrophe mundi.</author>
+               </titleStmt>
+               <extent>[8], 40 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J.G. for F. Smith ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Astrology --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:93807:1"/>
+            <pb facs="tcp:93807:1" rendition="simple:additions"/>
+            <p>An APPENDIX TO HOLWEL'S <hi>Cataſtrophe Mundi,</hi> BEING An <hi>Aſtrological Diſcourſe</hi> of the <hi>Riſe, Growth</hi> and <hi>Continuation</hi> of the <hi>Othoman Family.</hi> With the <hi>Nativities</hi> of the preſent <hi>French</hi> King, Empe<g ref="char:EOLhyphen"/>rors of <hi>Germany</hi> and <hi>Turky;</hi> All truly <hi>Rectifyed,</hi> and <hi>Aſtrologically</hi> handled. ALSO, What <hi>Progreſs</hi> this preſent Emperor of <hi>Turky</hi> ſhall make upon <hi>Europe</hi> in this Intended War with the Houſe of <hi>Auſtria.</hi> Where unto is added a <hi>S<g ref="char:V">Ʋ</g>PLIMENT</hi> of the <hi>Judgment</hi> of <hi>Comets.</hi>
+            </p>
+            <p>By <hi>JOHN HOLWEL</hi> Teacher of the <hi>Mathemacicks</hi> and <hi>Aſtrology.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed by <hi>J. G.</hi> for <hi>F. Smith,</hi> at the <hi>Elephant</hi> and <hi>Caſtle</hi> in <hi>Cornhil,</hi> 1683.</p>
+            <pb facs="tcp:93807:2"/>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:93807:2"/>
+            <head>To all thoſe that are truly Lovers of <hi>Aſtrology,</hi> and other <hi>Mathematical</hi> Learning through<g ref="char:EOLhyphen"/>out all <hi>Europe.</hi>
+            </head>
+            <opener>
+               <salute>Moſt Worthy Sirs,</salute>
+            </opener>
+            <p>IT being my Fate to bring into the World (a ſmall Piece of the <hi>Conjuncti<g ref="char:EOLhyphen"/>on</hi> of <hi>Saturn</hi> and <hi>Jupiter,</hi> Entituled <hi>Ca<g ref="char:EOLhyphen"/>taſtrophe Mundi</hi>) about ſix <hi>Months</hi> ago, wherein was a Method ſhewed how to lay <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o <hi>Foundation</hi> of <hi>Judging of future Events</hi> relating to <hi>Mundane Affairs;</hi> and finding it hath been kindly received by the <hi>Ingenious</hi> of this <hi>Age,</hi> I have attempted to write an <hi>Appendix</hi> thereto, wherein is laid down a <hi>Method</hi> how to handle <hi>Aſtrologically</hi> the <hi>Ori<g ref="char:EOLhyphen"/>ginal</hi> of any <hi>Family;</hi> by which means may be diſcovered their ſeveral <hi>Impending Fates,</hi> and that from the <hi>Conjunction</hi> of <hi>Saturn</hi> and <hi>Jupiter.</hi> For it is known to all men, that all <hi>Families, Cities,</hi> and other things that had a <hi>Beginning,</hi> have been ſubject to <hi>Mu<g ref="char:EOLhyphen"/>tations,</hi> and at laſt to <hi>Deſolution;</hi> but the <hi>Antients</hi> have been very ſilent in Matters relating to this very <hi>Subject,</hi> inſomuch
+<pb facs="tcp:93807:3"/>that I was at a <hi>ſtand</hi> which way was beſt to take; but conſidering the <hi>Beginning</hi> of <hi>Empires, Kingdoms, Cities</hi> and <hi>Families</hi> have their Original from the <hi>Conjunctions</hi> of <hi>Saturn</hi> and <hi>Jupiter;</hi> for the better Satisfaction of the young <hi>Student,</hi> I have thought good to handle (in this ſmall Piece) the <hi>Riſe of the Empire of</hi> Turky, and have traced his <hi>Riſe</hi> and <hi>Growth,</hi> with a great deal of Labour, quite through the <hi>Turkiſh</hi> Hiſtory; and in the ſame man<g ref="char:EOLhyphen"/>ner may other <hi>Empires</hi> be handled, if the <hi>Riſe</hi> of them be but known, and from thence may the many <hi>Mutati<g ref="char:EOLhyphen"/>ons</hi> of the <hi>World</hi> be diſcovered.</p>
+            <p>All thoſe that go about to <hi>Judge the Event</hi> of <hi>Europe</hi> from the Entrance of the <hi>Sun</hi> into any of the <hi>Cardinal Points,</hi> build their <hi>Judgment</hi> from very <hi>uncertain grounds,</hi> for that very <hi>Point</hi> is not fully determin<g ref="char:EOLhyphen"/>ed by <hi>Aſtronomers;</hi> and I judge it as hard to got a true <hi>Figure</hi> of any of thoſe <hi>Times,</hi> as it is to get a <hi>Figure</hi> of the <hi>Conjunction</hi> of <hi>Saturn</hi> and <hi>Jupiter:</hi> as for <hi>Example:</hi> Mr. <hi>Richard Kirby,</hi> in his <hi>Votes Aſtrologicus,</hi> lately Publiſhed, tells us. <hi>That the</hi> Sun <hi>enter</hi> Aries <hi>upon the 10th. day of</hi> March, <hi>at</hi> 3 <hi>Hours</hi> 41 <hi>Min.</hi> A. M. And from thence he very
+<pb facs="tcp:93807:3"/>learnedly gives a <hi>Judgment</hi> of the <hi>Spring-Quarter</hi> for the year 1683: but according to Mr. <hi>Street,</hi> the <hi>Sun</hi> enters <hi>Aries</hi> but 21 <hi>Min.</hi> A. M. the ſame day; no leſs than 3 <hi>Hours</hi> 20 <hi>Min.</hi> difference: and moſt <hi>Aſtro<g ref="char:EOLhyphen"/>nomers</hi> of our <hi>Age</hi> do agree, <hi>That the</hi> Sun'<hi>s greateſt Paralax is leſs than half a Minute,</hi> and ſo conſequently <hi>Mr. Street</hi> to be the near<g ref="char:EOLhyphen"/>eſt the truth. Now I leave it to the <hi>Sons of Art</hi> to judge, what ſure Ground any <hi>Ar<g ref="char:EOLhyphen"/>tiſt</hi> can have to draw his <hi>Judgment</hi> from any of the <hi>Enerances of the</hi> Sun into the four <hi>Cardinal Points,</hi> ſeeing <hi>Aſtronomers</hi> dif<g ref="char:EOLhyphen"/>fer ſo much: but what Mr. <hi>Kirby</hi> would have done for <hi>Matter</hi> to finiſh his <hi>Aſtrolo<g ref="char:EOLhyphen"/>gical Prophet,</hi> had it not been for my <hi>Ca<g ref="char:EOLhyphen"/>taſtrophe Mundi,</hi> I know not, for all the material <hi>Matter</hi> in my <hi>Judgment</hi> of Years he hath very fairly tranſcribed.</p>
+            <p>There is alſo Emitted into the <hi>World</hi> a ſmall Piece, bearing the Title of <hi>Cataſtro<g ref="char:EOLhyphen"/>phe Mundi,</hi> performed by a very Learned Pen; wherein the <hi>Author</hi> was pleaſed, in his <hi>Preface,</hi> to tell the World, <hi>That I had con<g ref="char:EOLhyphen"/>fuſed the</hi> Hierogliphicks; <hi>under pretence of placing of them right.</hi> And yet this Learned Pen after all, confeſſes, <hi>That they were not placed right in</hi> Mr. <hi>Lillie</hi>'s Time. From
+<pb facs="tcp:93807:4"/>whence I had the Key of placing of them right, is beſt known to my ſelf. How<g ref="char:EOLhyphen"/>ever I have been ſo kind to the <hi>Sons of Art,</hi> as to emit them into the World rightly placed; but the Learned Pen would do well to let the Gentleman have his Book again from whence he had all his <hi>Cataſtrophe Mundi</hi> out of, for it is a great piece of <hi>In<g ref="char:EOLhyphen"/>gratitude</hi> not to reſtore it.</p>
+            <p>Worthy Sirs, the <hi>Thing it ſelf</hi> will ſpeak what pains I have been at to compoſe it, there being no Preſident in this kind as ever I could light of, which Labour and Pains I preſent to the <hi>World,</hi> hoping the Lovers of <hi>Art</hi> of this <hi>Age</hi> will judge of it according to its Merits, which if it be kindly accepted by you, will be all the Reward that I ſhall expect. In the mean time, <hi>Farewell.</hi>
+            </p>
+            <p>
+               <hi>From my Houſe on the Eaſt-ſide of</hi> Spittle-Fields, <hi>over againſt</hi> Dorſet-Street, <hi>next Door to a</hi> Glaſiers.</p>
+            <closer>
+               <dateline>
+                  <date>May 9th. 1683</date>
+               </dateline>
+               <signed>John Holwel.</signed>
+            </closer>
+         </div>
+         <div type="proem">
+            <pb facs="tcp:93807:4"/>
+            <head>The Proeme</head>
+            <p>GReat have been the Mutations of the World ſince it hath pleaſed the Eternal Being to lay the Foundation thereof; among which are reckon<g ref="char:EOLhyphen"/>ed ſeveral great Monarchs or Empires that have been erected and continued for ſeveral hundreds of years; but yet at the laſt had their time of Deſtruction, by whoſe Fall there were new Ones erected: as for <hi>Example, 1258</hi> years before the comming of Chriſt, is ſaid to begin the <hi>Perſian Monarchy;</hi> and that was under the Influence of the Con<g ref="char:EOLhyphen"/>junction of <hi>Saturn</hi> and <hi>Jupiter</hi> in <hi>Virgo;</hi> that Conjuncti<g ref="char:EOLhyphen"/>on happening the ſame year: and this <hi>Monarchy</hi> continued in its Ebbing and Flowing <hi>810</hi> years; at which time be<g ref="char:EOLhyphen"/>gan the <hi>Grecian Monarchy;</hi> and <hi>7</hi> years before the be<g ref="char:EOLhyphen"/>ginning of the <hi>Grecian Monarchy</hi> there was a Conjunction of <hi>Saturn</hi> and <hi>Jupiter</hi> in <hi>Taurus;</hi> and this Monarchy con<g ref="char:EOLhyphen"/>tinued in its Ebbing and Flowing near <hi>405</hi> years; at which time there did happen a Conjunction of <hi>Saturn</hi> and <hi>Jupiter</hi> in <hi>Scorpio,</hi> which did deſtroy the <hi>Grecian,</hi> and lay the Foundation of the <hi>Roman Monarchy;</hi> which <hi>Monar<g ref="char:EOLhyphen"/>chy</hi> hath continued with its Ebbing and Flowing ever ſince. But that which is worth our taking notice of, is, that the next time that <hi>Saturn</hi> and <hi>Jupiter</hi> made their laſt Conjunction in <hi>Gemini</hi> the <hi>Biſhops</hi> of <hi>Rome</hi> claimed to themſelves the unlimited Title of <hi>Supremacy,</hi> it being the ſame time that <hi>Mahomet</hi> eſtabliſhed his Opinions, and as they had their Riſe together, ſo will they have their Fall. The Sub<g ref="char:EOLhyphen"/>ject Matter of theſe following Sheets being to ſhew the Riſe
+<pb facs="tcp:93807:5"/>of that famous <hi>Empire</hi> of <hi>Turky,</hi> and the ſeveral <hi>Mutati<g ref="char:EOLhyphen"/>ons</hi> of it, and how far they may inlarge their Territories in <hi>Europe,</hi> and how long that <hi>Empire</hi> may continue in the <hi>Othoman Family;</hi> and likewiſe at what time it may be ex<g ref="char:EOLhyphen"/>pected that they may change their Religion to <hi>Chriſtiani<g ref="char:EOLhyphen"/>ty,</hi> and conſequently the Fall of <hi>Antichriſt;</hi> all which being the Subject Matter of an <hi>Aſtrological</hi> Diſcourſe of the Conjunction of <hi>Saturn</hi> and <hi>Jupiter</hi> in <hi>1285,</hi> which was the Conjunction that preceded the Riſe of the <hi>Othoman Family,</hi> and likewiſe of that Conjunction of <hi>Saturn</hi> and <hi>Jupiter</hi> in Sagit. that preceded the Preaching of the <hi>Goſpel,</hi> which happened in the 14th. year of Chriſt; and alſo of that Con<g ref="char:EOLhyphen"/>junction of <hi>Saturn</hi> and <hi>Jupiter</hi> that preceded the coming of <hi>Mahomet,</hi> the Saviour of the <hi>Turks,</hi> and the <hi>Suprema<g ref="char:EOLhyphen"/>cy</hi> of the <hi>Popes</hi> of <hi>Rome;</hi> from which Conjunctions not only the Cauſes of this mighty <hi>Empires</hi> Ebbing and Flowing, but alſo the Ebbing and Flowing of <hi>Chriſtianity,</hi> and like<g ref="char:EOLhyphen"/>wiſe the Ebbing and Flowing of <hi>Mahometiſm,</hi> and alſo the Change of that Opinion to <hi>Chriſtianity;</hi> will I hope bring great Content to all the Sons of Art.</p>
+         </div>
+      </front>
+      <body>
+         <div n="1" type="chapter">
+            <pb n="1" facs="tcp:93807:5"/>
+            <head>
+               <hi>CHAP. I.</hi> Of the Riſe of the Nation of the <hi>Turks,</hi> and under what Conſtellation they had their Beginning.</head>
+            <p>THE <hi>Turks</hi> were a ſort of People called <hi>Scythians,</hi> that left their Native Country in the Year of our Lord 844: under the Conjunction of <hi>Saturn</hi> and <hi>Jupiter</hi> in the fiery Sign <hi>Leo</hi> and did ſeat them ſelves in <hi>Armenia</hi> after a Rude manner, until <hi>Tangrolipix</hi> was ſent by the <hi>Turks</hi> with 3000 Men to the aid of <hi>Mahomet</hi> the <hi>Sul<g ref="char:EOLhyphen"/>tan</hi> of <hi>Perſia:</hi> and in a year or two after he was choſen himſelf (by the Souldiers) <hi>Sultan</hi> of <hi>Perſia</hi> in the Year of our Re<g ref="char:EOLhyphen"/>demption 1030: this was under a Conjunction of <hi>Saturn</hi> and <hi>Jupiter</hi> in <hi>Taurus: Tangrolipix</hi> was choſen <hi>Sultan</hi> of <hi>Perſia</hi> three years after the Conjunction it ſelf: the next time that <hi>Saturn</hi> and <hi>Jupiter</hi> made their Conjunction in <hi>Taurus</hi> the <hi>Turks</hi> had a great War with the <hi>Chriſtians: Jeruſalem</hi> is taken by the latter, and <hi>Godfrey</hi> Duke of <hi>Bullon</hi> made King thereof by conſent of the <hi>Chriſtian</hi> Army; and when <hi>Saturn</hi> and <hi>Jupiter</hi> made their laſt Conjunction in the Earthy Triplicity, <hi>Viz. Virgo: Jeruſalem</hi> was again Re-taken by <hi>Saladin</hi> the <hi>Sultan</hi> of the <hi>Turks,</hi> and under the ſame Conjunction, <hi>Viz.</hi> In the year 1202 the <hi>Turks</hi> were drove out of <hi>Perſia</hi> by the <hi>Tar<g ref="char:EOLhyphen"/>tars,</hi> and were forced to ſettle their Kingdom in leſſer <hi>Aſia,</hi> at <hi>Sebaſtia</hi> and <hi>Ivontum:</hi> and when <hi>Saturn</hi> and <hi>Jupiter</hi> made the firſt Conjunction in <hi>Libra</hi> after their en<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tance in the Airy Tri<g ref="char:EOLhyphen"/>plicity, the <hi>Turks</hi> were driven out of <hi>Aegypt</hi> by the <hi>Mamilukes</hi>
+               <pb n="2" facs="tcp:93807:6"/>in the year 1250 five years after the Conjunction, and they ſet up a Kingdom of themſelves, which Kingdom continu<g ref="char:EOLhyphen"/>ed for the ſpace of 267 years; at which time they were (<hi>Viz.</hi> in the year 1517, and nine years after the ſixth Conjunction of <hi>Saturn</hi> and <hi>Jupiter</hi> in <hi>Selymus</hi> the victorious Emperour of the <hi>Turks</hi>) overthrown, and the Kingdom of <hi>Aegypt,</hi> with all <hi>Syria</hi> and the Land of <hi>Pa<g ref="char:EOLhyphen"/>leſtine</hi> brought into the Form of Provinces, united unto the <hi>Turks</hi> Empire. At the ſame time that the <hi>Turks</hi> King<g ref="char:EOLhyphen"/>dom was Founded by <hi>Tangropipix</hi> in <hi>Perſia,</hi> was alſo another Kingdom of theirs at the City of <hi>Machan,</hi> but nothing compa<g ref="char:EOLhyphen"/>parable to the other either in Glory or Power. At the time of the <hi>Turks</hi> being driven out of <hi>Perſia</hi> by the <hi>Tar<g ref="char:EOLhyphen"/>tar,</hi> one <hi>Solyman</hi> Reigned at <hi>Maehan,</hi> and was alſo driven out of his Kingdom: this <hi>Solyman</hi> was not of the ſame Fa<g ref="char:EOLhyphen"/>mily of <hi>Tangropipix,</hi> but was of the <hi>Oguzian Tribe,</hi> this <hi>Soly<g ref="char:EOLhyphen"/>man</hi> and his <hi>Oguzian Turks</hi> wandred till they came to <hi>Eu<g ref="char:EOLhyphen"/>phrates,</hi> where <hi>Solyman,</hi> by endeavouring to find a Paſſage, was there drowned; he left behind him four Sons, <hi>Sencur, Teken Jundogdis,</hi> and <hi>Ertogrul,</hi> the Father of <hi>Othoman</hi> the Founder of the <hi>Turks</hi> Empire that now is, and <hi>Dunder.</hi> This <hi>Dunder</hi> and his Brother <hi>Ertogrule,</hi> with four hundred Families, ſtayed by the River, at a Place called <hi>Paſin-Ovaſi,</hi> while the other two Brethren and the reſt of the <hi>Turks</hi> paſſed the River, and return<g ref="char:EOLhyphen"/>ed again into <hi>Perſia:</hi> this <hi>Ertogrul</hi> having three Sons, <hi>Viz. Jundus, Serugatius</hi> and <hi>Othoman,</hi> ſent his ſecond Son <hi>Serugatius</hi> to <hi>Aladin,</hi> to deſire him to let him have a Corner of his Coun<g ref="char:EOLhyphen"/>try that wanted Peopling to reſt in; which Requeſt was grant<g ref="char:EOLhyphen"/>ed, and after a ſhort time, for ſome good Service that this <hi>Er<g ref="char:EOLhyphen"/>togrul</hi> had done the <hi>Sultan Aladin,</hi> gave him and his <hi>Turks</hi> a Country Village called <hi>Sugata,</hi> in the greater <hi>Phrygia,</hi> and ſo continued theſe <hi>Turks</hi> for a ſmall time, ſtill increaſing, until <hi>Ertogrul,</hi> after he had Governed the <hi>Oguzian</hi> Families 52 years, dyed in the Year of our Lord 1289: after whoſe Death the <hi>Oguzian Turks</hi> choſe <hi>Othoman</hi> to be their Governour; as may be ſeen by any who pleaſe to peruſe the <hi>Turkiſh</hi> Hiſtory.</p>
+         </div>
+         <div n="2" type="chapter">
+            <pb n="3" facs="tcp:93807:6"/>
+            <head>
+               <hi>CHAP. II.</hi> Of the <hi>Aſtrological</hi> Judgment of the Continua<g ref="char:EOLhyphen"/>tion of the <hi>Othoman</hi> Family.</head>
+            <p>
+               <hi>OThoman,</hi> after the death of his Father, taking upon him the Government of the <hi>Oguzian Turks</hi> in the year 1689, we are to conſider under what Conſtellation he Founded this great Empire. The laſt Conjunction that was of <hi>Saturn</hi> and <hi>Jupiter</hi> was in <hi>Aquarius,</hi> four years be<g ref="char:EOLhyphen"/>fore: and his Father <hi>Ertogrul</hi> began to govern the <hi>Oguzian Turks</hi> under the Gubernation of <hi>Saturn</hi> and <hi>Jupiter</hi> in <hi>Aquarius,</hi> the year of our Lord 1237; the Conjunction of <hi>Saturn</hi> and <hi>Jupiter</hi> happening in the year 1226, eleven years before. But foraſmuch as <hi>Othoman</hi> is accounted to be the be<g ref="char:EOLhyphen"/>ginning of this Family of the <hi>Turks,</hi> it will be needful that we conſider the Conjunction that happened in 1285, on the 11th. day of <hi>December,</hi> at 18 2 P. M. being the time of the New Moon, proceding, for which, and for <hi>Conſtantinople,</hi> it being in the Lat. of 43 Deg. and by reaſon it is 2 H. 18 to the <hi>Eaſt<g ref="char:EOLhyphen"/>ward</hi> of <hi>London,</hi> therefore the time there will be 20 H. 20 P. M. for which time the Figure following was ſet.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell>10 Houſe ♏ 4 45</cell>
+                     <cell>4 Houſe ♉ 4 45</cell>
+                  </row>
+                  <row>
+                     <cell>11 Houſe ♏ 25.30</cell>
+                     <cell>5 Houſe ♉ 25 30</cell>
+                  </row>
+                  <row>
+                     <cell>☋ 1 2</cell>
+                     <cell>☊ 1 2</cell>
+                  </row>
+                  <row>
+                     <cell>12 Houſe ♐ 14.10</cell>
+                     <cell>6 Houſe ♊ 14 10</cell>
+                  </row>
+                  <row>
+                     <cell>☉ <g ref="char:Moon">☽</g> in ♐ 27 40</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Aſcendant ♑ 8 7</cell>
+                     <cell>7 Houſe ♋ 8 7.</cell>
+                  </row>
+                  <row>
+                     <cell>♀ in ♑ 12 52</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>☿ in ♑ 18 4</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>♈ in ♒ 4 20</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>♄ in ♒ 4 35</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>♒ 23 50 Second</cell>
+                     <cell>8 Houſe <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> 27 50</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>♐ in ♍ 3 39</cell>
+                  </row>
+                  <row>
+                     <cell>3 Houſe 4 10 ♈</cell>
+                     <cell>9 Houſe ♎ 4 10</cell>
+                  </row>
+               </table>
+            </p>
+            <p>From this very Fi<g ref="char:EOLhyphen"/>gure any one that is but meanly verſed in the Art of <hi>Astrology,</hi> may know that <hi>Aqua<g ref="char:EOLhyphen"/>rius</hi> is a fixed Sign, and that <hi>Saturn</hi> doth wholly take delight therein, and he doth diſpoſe of three of the Planets, <hi>Viz. Jupiter, Venus,</hi> and <hi>Mercury;</hi> and <hi>Jupiter</hi> doth diſ<g ref="char:EOLhyphen"/>poſe of both the <hi>Sun</hi> and <hi>Moon,</hi> and <hi>Mer<g ref="char:EOLhyphen"/>cury</hi>
+               <pb n="4" facs="tcp:93807:7"/>doth diſpoſe of <hi>Mars;</hi> all Aſtrologers do allow <hi>Saturn</hi> to repreſent all Staple Monarchs, becauſe he very ſeldom applys to any of the Planets, but ge<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ally all the other Planets to him, and ſeeing we find him in this Conjunction in <hi>Aqua<g ref="char:EOLhyphen"/>rius,</hi> the more ſtaple will that Monarch be that is repreſented by him, and foraſmuch as the <hi>Othoman</hi> Family had their Riſe ſoon after this Conjunction; therefore we ſhall take <hi>Saturn</hi> as he is placed in <hi>Aquarius,</hi> to repreſent that Family, then will <hi>Taurus,</hi> upon the Cuſp of the fifth, repreſent his People that he ſhall Govern, and <hi>Leo</hi> upon the Cuſp of the eighth, will, according to <hi>Aſtrology,</hi> repreſent his publick Enemies, and <hi>Capricorn</hi> his own Houſe, and <hi>Mercury</hi> and <hi>Venus</hi> his private Enemies, and <hi>Taurus</hi> upon the Cuſp of the fourth, and <hi>Sagit<g ref="char:EOLhyphen"/>tarius</hi> upon the twelfth with the <hi>Sun</hi> and <hi>Moon</hi> will repreſent his Neighbours and Allies. Now all theſe Places that are un<g ref="char:EOLhyphen"/>der <hi>Aquarius, Leo, Taurus</hi> and <hi>Virgo</hi> will feel the heavy hand of this Monarchy; and ſeeing that this Empire from ſuch ſmall beginning hath riſen to ſuch vaſt Territories, it will be neceſſary that we ſhould conſider the continual Increaſe there<g ref="char:EOLhyphen"/>of, and alſo to enquire from what Conſtellations they have had their ſeveral Mutations, and that the young Artiſt may not be left in the dark, I have directed all the five Helogia<g ref="char:EOLhyphen"/>cal places of this Figure that preceded the Riſe of this Family to the year of our Lord 1720; and in order to the better En<g ref="char:EOLhyphen"/>quiry I have traced all the material Accidents that have attend<g ref="char:EOLunhyphen"/>ed this Family to the year 1640, out of the <hi>Turkiſh</hi> Hiſtory, which I hope will give great ſatisfaction to the young Artiſt as well as it hath done to me.</p>
+            <pb n="5" facs="tcp:93807:7"/>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label">
+                        <hi>Anno Dom.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>M C Directed.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Anno Dom.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Aſcendant directed.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Anno Dom.</hi>
+                     </cell>
+                     <cell role="label">☉ <g ref="char:Moon">☽</g> 
+                        <hi>direct.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>1295</cell>
+                     <cell>
+                        <g ref="char:quadrine">□</g> ♄ ♃ &amp; ⚹ ♂</cell>
+                     <cell>1290</cell>
+                     <cell>♀</cell>
+                     <cell>1291</cell>
+                     <cell>
+                        <g ref="char:trine">△</g> ♂</cell>
+                  </row>
+                  <row>
+                     <cell>1293</cell>
+                     <cell>⚹ ♀</cell>
+                     <cell>1295</cell>
+                     <cell>☿</cell>
+                     <cell>1300</cell>
+                     <cell>♀</cell>
+                  </row>
+                  <row>
+                     <cell>1299</cell>
+                     <cell>⚹ ☿</cell>
+                     <cell>1309</cell>
+                     <cell>♄ ♃</cell>
+                     <cell>1306</cell>
+                     <cell>☿</cell>
+                  </row>
+                  <row>
+                     <cell>1315</cell>
+                     <cell>⚹ ♄ ♃ &amp; <g ref="char:quadrine">□</g> ♂</cell>
+                     <cell>1324</cell>
+                     <cell>⚹ ☉ <g ref="char:Moon">☽</g>
+                     </cell>
+                     <cell>1321</cell>
+                     <cell>♄ ♃</cell>
+                  </row>
+                  <row>
+                     <cell>1345</cell>
+                     <cell>
+                        <g ref="char:trine">△</g> ♂</cell>
+                     <cell>1334</cell>
+                     <cell>⚹ ♀</cell>
+                     <cell>1344</cell>
+                     <cell>⚹ ☉ <g ref="char:Moon">☽</g>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>1353</cell>
+                     <cell>♀</cell>
+                     <cell>1336</cell>
+                     <cell>⚹ ☿</cell>
+                     <cell>1350</cell>
+                     <cell>☍ ♂</cell>
+                  </row>
+                  <row>
+                     <cell>1359</cell>
+                     <cell>☿</cell>
+                     <cell>1345</cell>
+                     <cell>⚹ ♄ ♃</cell>
+                     <cell>1358</cell>
+                     <cell>⚹ ♀</cell>
+                  </row>
+                  <row>
+                     <cell>1375</cell>
+                     <cell>♄ ♃</cell>
+                     <cell>1350</cell>
+                     <cell>
+                        <g ref="char:quadrine">□</g> ♀</cell>
+                     <cell>1364</cell>
+                     <cell>⚹ ☿</cell>
+                  </row>
+                  <row>
+                     <cell>1398</cell>
+                     <cell>⚹ ☉ <g ref="char:Moon">☽</g>
+                     </cell>
+                     <cell>1353</cell>
+                     <cell>
+                        <g ref="char:quadrine">□</g> ☿</cell>
+                     <cell>1374</cell>
+                     <cell>
+                        <g ref="char:quadrine">□</g> ☉ <g ref="char:Moon">☽</g>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>1405</cell>
+                     <cell>☍ ♂</cell>
+                     <cell>1358</cell>
+                     <cell>
+                        <g ref="char:trine">△</g> ☉ <g ref="char:Moon">☽</g>
+                     </cell>
+                     <cell>1389</cell>
+                     <cell>
+                        <g ref="char:quadrine">□</g> ♀</cell>
+                  </row>
+                  <row>
+                     <cell>1413</cell>
+                     <cell>⚹ ♀</cell>
+                     <cell>1362</cell>
+                     <cell>
+                        <g ref="char:trine">△</g> ♂ &amp; ⚹ ♄ ♃</cell>
+                     <cell>1395</cell>
+                     <cell>
+                        <g ref="char:quadrine">□</g> ☿</cell>
+                  </row>
+                  <row>
+                     <cell>1419</cell>
+                     <cell>⚹ ☿</cell>
+                     <cell>1368</cell>
+                     <cell>
+                        <g ref="char:trine">△</g> ♀</cell>
+                     <cell>1404</cell>
+                     <cell>
+                        <g ref="char:trine">△</g> ☉ <g ref="char:Moon">☽</g>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>1428</cell>
+                     <cell>
+                        <g ref="char:quadrine">□</g> ☉ <g ref="char:Moon">☽</g>
+                     </cell>
+                     <cell>1371</cell>
+                     <cell>
+                        <g ref="char:trine">△</g> ☿</cell>
+                     <cell>1411</cell>
+                     <cell>
+                        <g ref="char:trine">△</g> ♂</cell>
+                  </row>
+                  <row>
+                     <cell>1435</cell>
+                     <cell>⚹ ♄ ♃</cell>
+                     <cell>1384</cell>
+                     <cell>
+                        <g ref="char:quadrine">□</g> ♂</cell>
+                     <cell>1412</cell>
+                     <cell>
+                        <g ref="char:quadrine">□</g> ♄ ♃</cell>
+                  </row>
+                  <row>
+                     <cell>1443</cell>
+                     <cell>
+                        <g ref="char:quadrine">□</g> ♀</cell>
+                     <cell>1385</cell>
+                     <cell>
+                        <g ref="char:trine">△</g> ♄ ♃</cell>
+                     <cell>1420</cell>
+                     <cell>
+                        <g ref="char:trine">△</g> ♀</cell>
+                  </row>
+                  <row>
+                     <cell>1449</cell>
+                     <cell>
+                        <g ref="char:quadrine">□</g> ☿</cell>
+                     <cell>1405</cell>
+                     <cell>☍ ☉ <g ref="char:Moon">☽</g>
+                     </cell>
+                     <cell>1425</cell>
+                     <cell>
+                        <g ref="char:trine">△</g> ☿</cell>
+                  </row>
+                  <row>
+                     <cell>1458</cell>
+                     <cell>
+                        <g ref="char:trine">△</g> ☉ <g ref="char:Moon">☽</g>
+                     </cell>
+                     <cell>1414</cell>
+                     <cell>⚹ ♂</cell>
+                     <cell>1439</cell>
+                     <cell>☋</cell>
+                  </row>
+                  <row>
+                     <cell>1465</cell>
+                     <cell>
+                        <g ref="char:quadrine">□</g> ♄ ♃ &amp; <g ref="char:trine">△</g> ♂</cell>
+                     <cell>1423</cell>
+                     <cell>☍ ♀</cell>
+                     <cell>1442</cell>
+                     <cell>
+                        <g ref="char:quadrine">□</g> ♂</cell>
+                  </row>
+                  <row>
+                     <cell>1473</cell>
+                     <cell>
+                        <g ref="char:trine">△</g> ♀</cell>
+                     <cell>1430</cell>
+                     <cell>☍ ☿</cell>
+                     <cell>1443</cell>
+                     <cell>
+                        <g ref="char:trine">△</g> ♄ ♃</cell>
+                  </row>
+                  <row>
+                     <cell>1479</cell>
+                     <cell>
+                        <g ref="char:trine">△</g> ☿</cell>
+                     <cell>1450</cell>
+                     <cell>☍ ♄ ♃</cell>
+                     <cell>1466</cell>
+                     <cell>☍ ☉ <g ref="char:Moon">☽</g>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>1495</cell>
+                     <cell>
+                        <g ref="char:trine">△</g> ♄ ♃ &amp; <g ref="char:quadrine">□</g> ♂</cell>
+                     <cell>1480</cell>
+                     <cell>
+                        <g ref="char:trine">△</g> ☉ <g ref="char:Moon">☽</g>
+                     </cell>
+                     <cell>1473</cell>
+                     <cell>⚹ ♂</cell>
+                  </row>
+                  <row>
+                     <cell>1518</cell>
+                     <cell>☍ ☉ <g ref="char:Moon">☽</g>
+                     </cell>
+                     <cell>1489</cell>
+                     <cell>♂</cell>
+                     <cell>1482</cell>
+                     <cell>☍ ♀</cell>
+                  </row>
+                  <row>
+                     <cell>1525</cell>
+                     <cell>⚹ ♂</cell>
+                     <cell>1500</cell>
+                     <cell>
+                        <g ref="char:trine">△</g> ♀</cell>
+                     <cell>1488</cell>
+                     <cell>☍ ☿</cell>
+                  </row>
+                  <row>
+                     <cell>1533</cell>
+                     <cell>☍ ♀</cell>
+                     <cell>1507</cell>
+                     <cell>
+                        <g ref="char:trine">△</g> ☿</cell>
+                     <cell>1495</cell>
+                     <cell>☍ ♄ ♃</cell>
+                  </row>
+                  <row>
+                     <cell>1539</cell>
+                     <cell>☍ ☿</cell>
+                     <cell>1520</cell>
+                     <cell>
+                        <g ref="char:quadrine">□</g> ☉ <g ref="char:Moon">☽</g>
+                     </cell>
+                     <cell>1529</cell>
+                     <cell>
+                        <g ref="char:trine">△</g> ☉ <g ref="char:Moon">☽</g>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>1555</cell>
+                     <cell>☍ ♄ ♃</cell>
+                     <cell>1527</cell>
+                     <cell>
+                        <g ref="char:trine">△</g> ♄ ♃</cell>
+                     <cell>1536</cell>
+                     <cell>♂</cell>
+                  </row>
+                  <row>
+                     <cell>1578</cell>
+                     <cell>
+                        <g ref="char:trine">△</g> ☉ <g ref="char:Moon">☽</g>
+                     </cell>
+                     <cell>1540</cell>
+                     <cell>
+                        <g ref="char:quadrine">□</g> ♀</cell>
+                     <cell>1545</cell>
+                     <cell>
+                        <g ref="char:trine">△</g> ♀</cell>
+                  </row>
+                  <row>
+                     <cell>1585</cell>
+                     <cell>♂</cell>
+                     <cell>1546</cell>
+                     <cell>
+                        <g ref="char:quadrine">□</g> ☿</cell>
+                     <cell>1551</cell>
+                     <cell>
+                        <g ref="char:trine">△</g> ☿</cell>
+                  </row>
+                  <row>
+                     <cell>1593</cell>
+                     <cell>
+                        <g ref="char:trine">△</g> ♀</cell>
+                     <cell>1548</cell>
+                     <cell>⚹ ☉ <g ref="char:Moon">☽</g>
+                     </cell>
+                     <cell>1560</cell>
+                     <cell>
+                        <g ref="char:quadrine">□</g> ☉ <g ref="char:Moon">☽</g>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>1599</cell>
+                     <cell>
+                        <g ref="char:trine">△</g> ☿</cell>
+                     <cell>1567</cell>
+                     <cell>⚹ ♂</cell>
+                     <cell>1567</cell>
+                     <cell>
+                        <g ref="char:trine">△</g> ♄ ♃</cell>
+                  </row>
+                  <row>
+                     <cell>1608</cell>
+                     <cell>
+                        <g ref="char:quadrine">□</g> ☉ <g ref="char:Moon">☽</g>
+                     </cell>
+                     <cell>1569</cell>
+                     <cell>
+                        <g ref="char:quadrine">□</g> ♄ ♃</cell>
+                     <cell>1575</cell>
+                     <cell>
+                        <g ref="char:quadrine">□</g> ♂</cell>
+                  </row>
+                  <row>
+                     <cell>1616</cell>
+                     <cell>
+                        <g ref="char:trine">△</g> ♄ ♃</cell>
+                     <cell>1580</cell>
+                     <cell>⚹ ♀</cell>
+                     <cell>1581</cell>
+                     <cell>
+                        <g ref="char:quadrine">□</g> ☿</cell>
+                  </row>
+                  <row>
+                     <cell>1624</cell>
+                     <cell>
+                        <g ref="char:quadrine">□</g> ♀</cell>
+                     <cell>1588</cell>
+                     <cell>⚹ ☿</cell>
+                     <cell>1597</cell>
+                     <cell>
+                        <g ref="char:quadrine">□</g> ♄ ♃ &amp; ⚹ ♂</cell>
+                  </row>
+                  <row>
+                     <cell>1630</cell>
+                     <cell>
+                        <g ref="char:quadrine">□</g> ☿</cell>
+                     <cell>1602</cell>
+                     <cell>☋</cell>
+                     <cell>1605</cell>
+                     <cell>⚹ ♀</cell>
+                  </row>
+                  <row>
+                     <cell>1638</cell>
+                     <cell>⚹ ☉ <g ref="char:Moon">☽</g>
+                     </cell>
+                     <cell>1606</cell>
+                     <cell>
+                        <g ref="char:quadrine">□</g> ♂</cell>
+                     <cell>1611</cell>
+                     <cell>⚹ ☿</cell>
+                  </row>
+                  <row>
+                     <cell>1645</cell>
+                     <cell>
+                        <g ref="char:quadrine">□</g> ♄ ♃ ⚹ ♂</cell>
+                     <cell>1635</cell>
+                     <cell>☉ <g ref="char:Moon">☽</g>
+                     </cell>
+                     <cell>1624</cell>
+                     <cell>☋</cell>
+                  </row>
+                  <row>
+                     <cell>1653</cell>
+                     <cell>⚹ ♀</cell>
+                     <cell>1641</cell>
+                     <cell>
+                        <g ref="char:trine">△</g> ♂</cell>
+                     <cell>1627</cell>
+                     <cell>⚹ ♄ ♃ <g ref="char:quadrine">□</g> ♂</cell>
+                  </row>
+                  <row>
+                     <cell>1659</cell>
+                     <cell>⚹ ☿</cell>
+                     <cell>1650</cell>
+                     <cell>♀</cell>
+                     <cell>1650</cell>
+                     <cell>☉ <g ref="char:Moon">☽</g>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>1675</cell>
+                     <cell>⚹ ♄ ♃ <g ref="char:quadrine">□</g> ♂</cell>
+                     <cell>1655</cell>
+                     <cell>☿</cell>
+                     <cell>1656</cell>
+                     <cell>
+                        <g ref="char:trine">△</g> ♂</cell>
+                  </row>
+                  <row>
+                     <cell>1705</cell>
+                     <cell>
+                        <g ref="char:trine">△</g> ♂</cell>
+                     <cell>1668</cell>
+                     <cell>♄ ♃</cell>
+                     <cell>1664</cell>
+                     <cell>♀</cell>
+                  </row>
+                  <row>
+                     <cell>1713</cell>
+                     <cell>♀</cell>
+                     <cell>1676</cell>
+                     <cell>⚹ ☉ <g ref="char:Moon">☽</g>
+                     </cell>
+                     <cell>1670</cell>
+                     <cell>☿</cell>
+                  </row>
+                  <row>
+                     <cell>1719</cell>
+                     <cell>☿</cell>
+                     <cell>6680</cell>
+                     <cell>☍ ♂</cell>
+                     <cell>1685</cell>
+                     <cell>♄ ♃</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>1686</cell>
+                     <cell>♀</cell>
+                     <cell>1708</cell>
+                     <cell>⚹ ☉ <g ref="char:Moon">☽</g>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>1688</cell>
+                     <cell>☿</cell>
+                     <cell>1714</cell>
+                     <cell>☍ ♂</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>1697</cell>
+                     <cell>♄ ♃</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>1702</cell>
+                     <cell>
+                        <g ref="char:quadrine">□</g> ♀</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>1705</cell>
+                     <cell>
+                        <g ref="char:quadrine">□</g> ☿</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+               </table>
+            </p>
+            <pb n="6" facs="tcp:93807:8"/>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label">Anno Dem.</cell>
+                     <cell role="label">♄ ♃ direct</cell>
+                     <cell role="label">♂ di<g ref="char:EOLhyphen"/>rected</cell>
+                     <cell role="label">♂ directed</cell>
+                     <cell role="label">Anno Dem.</cell>
+                     <cell role="label">♀ directed</cell>
+                  </row>
+                  <row>
+                     <cell>1307</cell>
+                     <cell>⚹ ☉ ♀</cell>
+                     <cell>1394</cell>
+                     <cell>
+                        <g ref="char:trine">△</g> ♀</cell>
+                     <cell>13<gap reason="illegible" resp="#UOM" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>
+                     </cell>
+                     <cell>ad <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> ♃</cell>
+                  </row>
+                  <row>
+                     <cell>1314</cell>
+                     <cell>☍ ♂</cell>
+                     <cell>1300</cell>
+                     <cell>
+                        <g ref="char:trine">△</g> ☿</cell>
+                     <cell>1321</cell>
+                     <cell>ad ⚹ ☉ <g ref="char:Moon">☽</g>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>1322</cell>
+                     <cell>⚹ ♀</cell>
+                     <cell>1309</cell>
+                     <cell>
+                        <g ref="char:quadrine">□</g> ☉ <g ref="char:Moon">☽</g>
+                     </cell>
+                     <cell>1328</cell>
+                     <cell>ad ☍ ♂</cell>
+                  </row>
+                  <row>
+                     <cell>1327</cell>
+                     <cell>⚹ ☿</cell>
+                     <cell>1316</cell>
+                     <cell>ad <g ref="char:trine">△</g> ♄ ♃</cell>
+                     <cell>1336</cell>
+                     <cell>ad ⚹ ♀</cell>
+                  </row>
+                  <row>
+                     <cell>1338</cell>
+                     <cell>
+                        <g ref="char:quadrine">□</g> ☉ <g ref="char:Moon">☽</g>
+                     </cell>
+                     <cell>1324</cell>
+                     <cell>
+                        <g ref="char:quadrine">□</g> ☿</cell>
+                     <cell>1342</cell>
+                     <cell>⚹ ☿</cell>
+                  </row>
+                  <row>
+                     <cell>1353</cell>
+                     <cell>
+                        <g ref="char:quadrine">□</g> ♀</cell>
+                     <cell>1330</cell>
+                     <cell>
+                        <g ref="char:quadrine">□</g> ☿</cell>
+                     <cell>1353</cell>
+                     <cell>ad <g ref="char:quadrine">□</g> ☉ <g ref="char:Moon">☽</g>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>1357</cell>
+                     <cell>
+                        <g ref="char:quadrine">□</g> ☿</cell>
+                     <cell>1339</cell>
+                     <cell>ad ⚹ ☉ <g ref="char:Moon">☽</g>
+                     </cell>
+                     <cell>1360</cell>
+                     <cell>ad ⚹ ♄ ♃</cell>
+                  </row>
+                  <row>
+                     <cell>1368</cell>
+                     <cell>
+                        <g ref="char:trine">△</g> ☉ <g ref="char:Moon">☽</g>
+                     </cell>
+                     <cell>1346</cell>
+                     <cell>
+                        <g ref="char:quadrine">□</g> ♄ ♃ &amp; ⚹ ♂</cell>
+                     <cell>1369</cell>
+                     <cell>ad <g ref="char:quadrine">□</g> ♀</cell>
+                  </row>
+                  <row>
+                     <cell>1375</cell>
+                     <cell>
+                        <g ref="char:quadrine">□</g> ♄ ♃ &amp; <g ref="char:trine">△</g> ♂</cell>
+                     <cell>1353</cell>
+                     <cell>⚹ ♀</cell>
+                     <cell>1375</cell>
+                     <cell>ad <g ref="char:quadrine">□</g> ☿</cell>
+                  </row>
+                  <row>
+                     <cell>1383</cell>
+                     <cell>
+                        <g ref="char:trine">△</g> ♀</cell>
+                     <cell>1360</cell>
+                     <cell>⚹ ☿</cell>
+                     <cell>1384</cell>
+                     <cell>ad <g ref="char:trine">△</g> ☉ <g ref="char:Moon">☽</g>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>1390</cell>
+                     <cell>
+                        <g ref="char:trine">△</g> ☿</cell>
+                     <cell>1376</cell>
+                     <cell>
+                        <g ref="char:quadrine">□</g> ♂ &amp; ⚹ ♄ ♃</cell>
+                     <cell>1391</cell>
+                     <cell>ad <g ref="char:quadrine">□</g> ♄ ♃ <g ref="char:trine">△</g> ♂</cell>
+                  </row>
+                  <row>
+                     <cell>1406</cell>
+                     <cell>
+                        <g ref="char:trine">△</g> ♄ ♃ <g ref="char:quadrine">□</g> ♂</cell>
+                     <cell>1399</cell>
+                     <cell>ad ☉ <g ref="char:Moon">☽</g>
+                     </cell>
+                     <cell>1399</cell>
+                     <cell>ad <g ref="char:trine">△</g> ♀</cell>
+                  </row>
+                  <row>
+                     <cell>1430</cell>
+                     <cell>☍ ☉ <g ref="char:Moon">☽</g>
+                     </cell>
+                     <cell>1413</cell>
+                     <cell>ad ☿</cell>
+                     <cell>1406</cell>
+                     <cell>ad <g ref="char:trine">△</g> ☿</cell>
+                  </row>
+                  <row>
+                     <cell>1438</cell>
+                     <cell>⚹ ♂</cell>
+                     <cell>1419</cell>
+                     <cell>ad ☿</cell>
+                     <cell>1422</cell>
+                     <cell>
+                        <g ref="char:quadrine">□</g> ♂ &amp; <g ref="char:trine">△</g> ♄ ♃</cell>
+                  </row>
+                  <row>
+                     <cell>1456</cell>
+                     <cell>☍ ☿</cell>
+                     <cell>1435</cell>
+                     <cell>ad ♄ ♃</cell>
+                     <cell>1446</cell>
+                     <cell>ad ☍ ☉ <g ref="char:Moon">☽</g>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>1452</cell>
+                     <cell>☍ ☿</cell>
+                     <cell>1457</cell>
+                     <cell>ad ⚹ ☉ <g ref="char:Moon">☽</g>
+                     </cell>
+                     <cell>1462</cell>
+                     <cell>ad ☍ ☿</cell>
+                  </row>
+                  <row>
+                     <cell>1469</cell>
+                     <cell>☍ ♃ ♃</cell>
+                     <cell>1464</cell>
+                     <cell>ad ☍ ♂</cell>
+                     <cell>1468</cell>
+                     <cell>ad ☍ ☿</cell>
+                  </row>
+                  <row>
+                     <cell>1493</cell>
+                     <cell>
+                        <g ref="char:trine">△</g> ☉ <g ref="char:Moon">☽</g>
+                     </cell>
+                     <cell>1472</cell>
+                     <cell>ad ⚹ ☿</cell>
+                     <cell>1485</cell>
+                     <cell>ad <g ref="char:quadrine">□</g> ♄ ♃</cell>
+                  </row>
+                  <row>
+                     <cell>1500</cell>
+                     <cell>
+                        <gap reason="illegible" resp="#UOM" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>
+                     </cell>
+                     <cell>1480</cell>
+                     <cell>ad ☿</cell>
+                     <cell>1509</cell>
+                     <cell>ad <g ref="char:trine">△</g> ☉ <g ref="char:Moon">☽</g>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>1509</cell>
+                     <cell>
+                        <g ref="char:trine">△</g> ♀</cell>
+                     <cell>1487</cell>
+                     <cell>ad <g ref="char:quadrine">□</g> ☉ <g ref="char:Moon">☽</g>
+                     </cell>
+                     <cell>1516</cell>
+                     <cell>ad ♂</cell>
+                  </row>
+                  <row>
+                     <cell>1515</cell>
+                     <cell>
+                        <g ref="char:trine">△</g> ☿</cell>
+                     <cell>1494</cell>
+                     <cell>ad ⚹ ♄ ♃</cell>
+                     <cell>1525</cell>
+                     <cell>ad <g ref="char:trine">△</g> ♀</cell>
+                  </row>
+                  <row>
+                     <cell>1524</cell>
+                     <cell>
+                        <g ref="char:quadrine">□</g> ☉ <g ref="char:Moon">☽</g>
+                     </cell>
+                     <cell>1503</cell>
+                     <cell>ad <g ref="char:quadrine">□</g> ♀</cell>
+                     <cell>1531</cell>
+                     <cell>ad <g ref="char:trine">△</g> ♀</cell>
+                  </row>
+                  <row>
+                     <cell>1531</cell>
+                     <cell>
+                        <g ref="char:trine">△</g> ♄ ♃</cell>
+                     <cell>1509</cell>
+                     <cell>ad <g ref="char:quadrine">□</g> ☿</cell>
+                     <cell>1540</cell>
+                     <cell>ad <g ref="char:quadrine">□</g> ☉ <g ref="char:Moon">☽</g>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>1539</cell>
+                     <cell>
+                        <g ref="char:quadrine">□</g> ♀</cell>
+                     <cell>1518</cell>
+                     <cell>ad <g ref="char:trine">△</g> ☉ <g ref="char:Moon">☽</g>
+                     </cell>
+                     <cell>1547</cell>
+                     <cell>ad <g ref="char:quadrine">□</g> ♀</cell>
+                  </row>
+                  <row>
+                     <cell>1545</cell>
+                     <cell>
+                        <g ref="char:quadrine">□</g> ☿</cell>
+                     <cell>1525</cell>
+                     <cell>
+                        <g ref="char:trine">△</g> ♂ &amp; <g ref="char:quadrine">□</g> ♄ ♃</cell>
+                     <cell>1553</cell>
+                     <cell>ad <g ref="char:quadrine">□</g> ☿</cell>
+                  </row>
+                  <row>
+                     <cell>1561</cell>
+                     <cell>
+                        <g ref="char:quadrine">□</g> ♄ ♃ ⚹ ♂</cell>
+                     <cell>1533</cell>
+                     <cell>ad <g ref="char:trine">△</g> ♀</cell>
+                     <cell>1562</cell>
+                     <cell>ad ⚹ ☉ <g ref="char:Moon">☽</g>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>1569</cell>
+                     <cell>⚹ ♀</cell>
+                     <cell>1540</cell>
+                     <cell>ad <g ref="char:trine">△</g> ☿</cell>
+                     <cell>1569</cell>
+                     <cell>⚹ ♂ <g ref="char:quadrine">□</g> ♄ ♃</cell>
+                  </row>
+                  <row>
+                     <cell>1575</cell>
+                     <cell>⚹ ☿</cell>
+                     <cell>1556</cell>
+                     <cell>
+                        <g ref="char:quadrine">□</g> ♂ &amp; <g ref="char:trine">△</g> ♄ ♃</cell>
+                     <cell>1577</cell>
+                     <cell>⚹ ♀</cell>
+                  </row>
+                  <row>
+                     <cell>1588</cell>
+                     <cell>☋</cell>
+                     <cell>1580</cell>
+                     <cell>ad ☍ ☉ <g ref="char:Moon">☽</g>
+                     </cell>
+                     <cell>1583</cell>
+                     <cell>ad ⚹ ☿</cell>
+                  </row>
+                  <row>
+                     <cell>1591</cell>
+                     <cell>
+                        <g ref="char:quadrine">□</g> ♂ &amp; ⚹ ♄ ♃</cell>
+                     <cell>1587</cell>
+                     <cell>ad ⚹ ♂</cell>
+                     <cell>1599</cell>
+                     <cell>
+                        <g ref="char:quadrine">□</g> ♂ &amp; ⚹ ♄ ♃</cell>
+                  </row>
+                  <row>
+                     <cell>1614</cell>
+                     <cell>ad ☉ <g ref="char:Moon">☽</g>
+                     </cell>
+                     <cell>1596</cell>
+                     <cell>ad ☍ ♀</cell>
+                     <cell>1623</cell>
+                     <cell>ad ☉ <g ref="char:Moon">☽</g>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>1620</cell>
+                     <cell>
+                        <g ref="char:trine">△</g> ♂</cell>
+                     <cell>1602</cell>
+                     <cell>ad ☍ ☿</cell>
+                     <cell>1645</cell>
+                     <cell>♀</cell>
+                  </row>
+                  <row>
+                     <cell>1628</cell>
+                     <cell>♀</cell>
+                     <cell>1619</cell>
+                     <cell>ad ☍ ♄ ♃</cell>
+                     <cell>1650</cell>
+                     <cell>☿</cell>
+                  </row>
+                  <row>
+                     <cell>1634</cell>
+                     <cell>☿</cell>
+                     <cell>1638</cell>
+                     <cell>ad <g ref="char:trine">△</g> ☉ <g ref="char:Moon">☽</g>
+                     </cell>
+                     <cell>1666</cell>
+                     <cell>ad ♄ ♃</cell>
+                  </row>
+                  <row>
+                     <cell>1645</cell>
+                     <cell>ad ♄ ♃</cell>
+                     <cell>1645</cell>
+                     <cell>♂</cell>
+                     <cell>1686</cell>
+                     <cell>ad ⚹ ☉ <g ref="char:Moon">☽</g>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>1667</cell>
+                     <cell>⚹ ☉ <g ref="char:Moon">☽</g>
+                     </cell>
+                     <cell>1654</cell>
+                     <cell>ad <g ref="char:trine">△</g> ♀</cell>
+                     <cell>1692</cell>
+                     <cell>ad ☍ ♂</cell>
+                  </row>
+                  <row>
+                     <cell>1674</cell>
+                     <cell>☍ ♂</cell>
+                     <cell>1660</cell>
+                     <cell>ad <g ref="char:trine">△</g> ☿</cell>
+                     <cell>1701</cell>
+                     <cell>ad ⚹ ♀</cell>
+                  </row>
+                  <row>
+                     <cell>1682</cell>
+                     <cell>⚹ ♀</cell>
+                     <cell>1669</cell>
+                     <cell>ad <g ref="char:quadrine">□</g> ☉ <g ref="char:Moon">☽</g>
+                     </cell>
+                     <cell>1707</cell>
+                     <cell>ad ⚹ ♀</cell>
+                  </row>
+                  <row>
+                     <cell>1687</cell>
+                     <cell>⚹ ☿</cell>
+                     <cell>1676</cell>
+                     <cell>ad <g ref="char:trine">△</g> ♄ ♃</cell>
+                     <cell>1718</cell>
+                     <cell>ad <g ref="char:quadrine">□</g> ☉ <g ref="char:Moon">☽</g>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>1698</cell>
+                     <cell>
+                        <g ref="char:quadrine">□</g> ☉ <g ref="char:Moon">☽</g>
+                     </cell>
+                     <cell>1684</cell>
+                     <cell>ad <g ref="char:quadrine">□</g> ♀</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>1713</cell>
+                     <cell>
+                        <g ref="char:quadrine">□</g> ♀</cell>
+                     <cell>1690</cell>
+                     <cell>ad <g ref="char:quadrine">□</g> ☿</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>1718</cell>
+                     <cell>
+                        <g ref="char:quadrine">□</g> ☿</cell>
+                     <cell>1699</cell>
+                     <cell>ad ⚹ ☉ <g ref="char:Moon">☽</g>
+                     </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>1706</cell>
+                     <cell>ad <g ref="char:quadrine">□</g> ♄ ♃ ⚹ ♂</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>1713</cell>
+                     <cell>ad ⚹ ♀</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>1720</cell>
+                     <cell>ad ⚹ ☿</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+               </table>
+            </p>
+            <pb n="7" facs="tcp:93807:8"/>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label">Anno Dom.</cell>
+                     <cell role="label">☿ directed</cell>
+                     <cell role="label"> </cell>
+                     <cell role="label"> </cell>
+                     <cell role="label"> </cell>
+                     <cell role="label"> </cell>
+                  </row>
+                  <row>
+                     <cell>1306</cell>
+                     <cell>ad ♄ ♃</cell>
+                     <cell>1427</cell>
+                     <cell>
+                        <g ref="char:quadrine">□</g> ♂ &amp; <g ref="char:trine">△</g> ♄ ♃</cell>
+                     <cell>1574</cell>
+                     <cell>⚹ ♂ &amp; <g ref="char:quadrine">□</g> ♄ ♃</cell>
+                  </row>
+                  <row>
+                     <cell>1326</cell>
+                     <cell>ad ⚹ ☉ <g ref="char:Moon">☽</g>
+                     </cell>
+                     <cell>1451</cell>
+                     <cell>ad ☍ ☉ <g ref="char:Moon">☽</g>
+                     </cell>
+                     <cell>1582</cell>
+                     <cell>ad ⚹ ♀</cell>
+                  </row>
+                  <row>
+                     <cell>1333</cell>
+                     <cell>ad ☍ ♂</cell>
+                     <cell>1467</cell>
+                     <cell>ad ☍ ♀</cell>
+                     <cell>1588</cell>
+                     <cell>ad ⚹ ☿</cell>
+                  </row>
+                  <row>
+                     <cell>1341</cell>
+                     <cell>ad ⚹ ♀</cell>
+                     <cell>1473</cell>
+                     <cell>ad ☍ ☿</cell>
+                     <cell>1606</cell>
+                     <cell>
+                        <g ref="char:quadrine">□</g> ♂ &amp; ⚹ ♄ ♃</cell>
+                  </row>
+                  <row>
+                     <cell>1347</cell>
+                     <cell>ad ⚹ ☿</cell>
+                     <cell>1490</cell>
+                     <cell>ad <g ref="char:quadrine">□</g> ♄ ♃</cell>
+                     <cell>1628</cell>
+                     <cell>ad ☉ <g ref="char:Moon">☽</g>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>1358</cell>
+                     <cell>ad <g ref="char:quadrine">□</g> ☉ <g ref="char:Moon">☽</g>
+                     </cell>
+                     <cell>1514</cell>
+                     <cell>ad <g ref="char:trine">△</g> ☉ <g ref="char:Moon">☽</g>
+                     </cell>
+                     <cell>1650</cell>
+                     <cell>♀</cell>
+                  </row>
+                  <row>
+                     <cell>1365</cell>
+                     <cell>ad ⚹ ♄ ♃</cell>
+                     <cell>1521</cell>
+                     <cell>ad ♂</cell>
+                     <cell>1655</cell>
+                     <cell>☿</cell>
+                  </row>
+                  <row>
+                     <cell>1374</cell>
+                     <cell>ad <g ref="char:quadrine">□</g> ♀</cell>
+                     <cell>1530</cell>
+                     <cell>ad <g ref="char:trine">△</g> ♀</cell>
+                     <cell>1671</cell>
+                     <cell>ad ♄ ♃</cell>
+                  </row>
+                  <row>
+                     <cell>1380</cell>
+                     <cell>ad <g ref="char:quadrine">□</g> ☿</cell>
+                     <cell>1536</cell>
+                     <cell>ad <g ref="char:trine">△</g> ☿</cell>
+                     <cell>1691</cell>
+                     <cell>ad ⚹ ☉ <g ref="char:Moon">☽</g>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>1389</cell>
+                     <cell>ad <g ref="char:trine">△</g> ☉ <g ref="char:Moon">☽</g>
+                     </cell>
+                     <cell>1545</cell>
+                     <cell>ad <g ref="char:quadrine">□</g> ☉ <g ref="char:Moon">☽</g>
+                     </cell>
+                     <cell>1698</cell>
+                     <cell>ad ☍ ♂</cell>
+                  </row>
+                  <row>
+                     <cell>1396</cell>
+                     <cell>
+                        <g ref="char:quadrine">□</g> ♄ ♃ &amp; <g ref="char:trine">△</g> ♂</cell>
+                     <cell>1552</cell>
+                     <cell>ad <g ref="char:quadrine">□</g> ♀</cell>
+                     <cell>1706</cell>
+                     <cell>ad ⚹ ♀</cell>
+                  </row>
+                  <row>
+                     <cell>1404</cell>
+                     <cell>ad <g ref="char:trine">△</g> ♀</cell>
+                     <cell>1558</cell>
+                     <cell>ad <g ref="char:quadrine">□</g> ☿</cell>
+                     <cell>1712</cell>
+                     <cell>ad ⚹ ♀</cell>
+                  </row>
+                  <row>
+                     <cell>1411</cell>
+                     <cell>ad <g ref="char:trine">△</g> ☿</cell>
+                     <cell>1567</cell>
+                     <cell>ad ⚹ ☉ <g ref="char:Moon">☽</g>
+                     </cell>
+                     <cell>1723</cell>
+                     <cell>ad <g ref="char:quadrine">□</g> ☉ <g ref="char:Moon">☽</g>
+                     </cell>
+                  </row>
+               </table>
+            </p>
+         </div>
+         <div n="3" type="chapter">
+            <pb n="8" facs="tcp:93807:9"/>
+            <head>
+               <hi>CHAP. III.</hi> Of the Increaſe of the Empire, and under what Conſtellation they have had their ſeveral Mutations.</head>
+            <p>AFter <hi>Othoman</hi> having ſettled his little <hi>Common Wealth,</hi> the firſt direction that the Empire had, was the <hi>Sun</hi> to the Body of <hi>Venus,</hi> ſhe being in <hi>Capricorn,</hi> and this fell in the year of our Lord 1300; in this year did <hi>Othoman</hi> take <hi>Nice,</hi> and Seated himſelf in a City called <hi>Ne<g ref="char:EOLhyphen"/>apolis,</hi> and took upon himſelf Regal Power.</p>
+            <p>In this year, and the year before, the Conjunction 1308 it ſelf came to the <hi>Sextile</hi> of both <hi>Sun</hi> and <hi>Moon,</hi> and <hi>Mars</hi> came alſo by direction to the Conjunction it ſelf; and alſo in the year 1305 <hi>Saturn</hi> and <hi>Jupiter</hi> made their firſt Conjunction in <hi>Libra,</hi> the Exaltation of <hi>Saturn</hi> during of theſe 20 year, the <hi>Turk,</hi> by the diviſion of the <hi>Greek Empire,</hi> gaining footing in <hi>Europe,</hi> gained many Battles, but was invited into <hi>Europe</hi> by the <hi>Cattalonians,</hi> the Iſland of <hi>Rhodes</hi> was taken from the <hi>Turk.</hi> in the year 1308.</p>
+            <p>In the year 1324 <hi>Saturn</hi> &amp; <hi>Jupiter</hi> made their ſecond Con<g ref="char:EOLhyphen"/>junction of the Riſe of this Kindom in <hi>Gemini</hi> in <hi>Trine</hi> to the place of the Conjunction 1285: three years after this <hi>Pruſa,</hi> one of the great Cities of <hi>Aſia</hi> yielded to <hi>Othoman,</hi> and he makes it his Royal Seat, and the year after <hi>Othoman</hi> himſelf died, and his Son <hi>Orchanus</hi> Succeeds, during of whoſe Reign he had good ſucceſs, but not upon <hi>Europe;</hi> he takes <hi>Caraſi<g ref="char:EOLhyphen"/>ina</hi> and <hi>Callipolis,</hi> and <hi>Nicomedia,</hi> and dyed in the year of our Lord 1359; and his Son <hi>Amurath</hi> the firſt began to Reign.</p>
+            <pb n="9" facs="tcp:93807:9"/>
+            <p>In the year 1264 you will find in my <hi>Cataſtrophe Mundi,</hi> that <hi>Saturn</hi> and <hi>Jupiter</hi> made their fourth Conjunction in <hi>Libra,</hi> during which Conjunction <hi>Boga</hi> is taken by <hi>Amurath,</hi> and ſo is <hi>Didymaticum,</hi> and is again recovered by the <hi>Chriſtians,</hi> and demoliſhed; and was again new builded by the <hi>Turk. Ser<g ref="char:EOLhyphen"/>via</hi> is alſo invaded by <hi>Amurath: Miſſa</hi> and <hi>Apollonia</hi> won by him alſo in the year 1387, three years after the fifth Conjuncti<g ref="char:EOLhyphen"/>on of <hi>Saturn</hi> and <hi>Jupiter</hi> in <hi>Gemini. Amurath</hi> had <hi>Aſia</hi> invad<g ref="char:EOLhyphen"/>ded by <hi>Aladin</hi> his Son in Law, and in the year 1390 was ſtab'd by a wounded Souldier, and <hi>Bajazet</hi> began to Reign.</p>
+            <p>
+               <hi>Bajazet</hi> ſoon after his coming to the Crown invades <hi>Servia</hi> twice in one year; in the year 1396 was fought a great Battle between <hi>Bajazet</hi> and the <hi>Chriſtians,</hi> where of the <hi>Turks</hi> were ſlain 60000, and of the <hi>Chriſtians</hi> 20000: and the year after, <hi>Viz.</hi> 1397 was the great Battle between <hi>Tamberlen</hi> and <hi>Ba<g ref="char:EOLhyphen"/>jazet,</hi> whereof were no leſs than 400000 <hi>Turks</hi> and <hi>Tartars</hi> ſlain, and <hi>Bajazet</hi> taken and put into a Iron Cage, and carryed through all <hi>Aſia. Bajazet</hi> beats out his Brains in the year 1399; the mean time <hi>Tamberlen'</hi> conquers all <hi>Aſia</hi> and <hi>Aegypt,</hi> and all the <hi>Turks</hi> Territories, and all in five years; he dies in the year 1202 at <hi>Samarcand</hi> in the year 1405, but one year after the firſt Conjunction of <hi>Saturn</hi> and <hi>Jupiter</hi> in <hi>Piſcis,</hi> and the ſixth Conjunction of <hi>Saturn</hi> and <hi>Jupiter</hi> ſince the Riſe of this Family began <hi>Mahomet</hi> the firſt, he having a great deal of trou<g ref="char:EOLhyphen"/>ble by reaſon of his Brothers ſtriving who ſhould have the Crown. This ſhort Reign of <hi>Tamberline</hi> is worth our taking notice of, he beginning his Conqueſt under the influence of the Conjunction in <hi>Gemini,</hi> and the laſt of that Triplicity, and ſo ſoon as <hi>Saturn</hi> and <hi>Jupiter</hi> made their firſt Conjunction in <hi>Piſcis,</hi> the Conjunction being in Square, to the Conjunction that went before, and in <hi>Sextile</hi> to the Conjunction that pre<g ref="char:EOLhyphen"/>ceded the Riſe of this Family; that made that Family begin to ſettle it ſelf again, and gained in a ſmall time all that <hi>Tam<g ref="char:EOLhyphen"/>berlen</hi> had taken from <hi>Bajazet,</hi> this twentieth year was ſpent in the Civil War between <hi>Mahomet</hi> and his Brother <hi>Muſa</hi> and <hi>Solyman,</hi> and he died in the year 1422, he Reigned but ſeven years over his Fathers Territories, and 10 years was he gaining of them: he left his Son <hi>Amurath</hi> the ſecond to Reign in his ſtead.</p>
+            <pb n="10" facs="tcp:93807:10"/>
+            <p>From the year 1424 to the year 1432 the <hi>Turks</hi> attempt <hi>Prore,</hi> but in vain, for <hi>Muſtapha,</hi> the ſuppoſed Son of <hi>Bajazet</hi> raiſeth Rebellion againſt <hi>Amurath,</hi> he in vain beſieged <hi>Conſtan<g ref="char:EOLhyphen"/>tinople,</hi> but in the year 1432 he takes <hi>Theſſalonia.</hi> A great Plague among the <hi>Turks, Hungaria</hi> waſted, <hi>Belgrade</hi> is beſieged, and the <hi>Turks</hi> forced to draw off with great loſs during the time of the Influence of this Conjunction of <hi>Saturn</hi> and <hi>Jupiter</hi> in it, falling in exact ſquare to the Conjunction that precedes their Riſe, he got but little but the Slaughter of his Men; but in the year 1444 there was a Conjunction of <hi>Saturn</hi> and <hi>Ju<g ref="char:EOLhyphen"/>piter</hi> in <hi>Cancer.</hi> After this year the <hi>Turks</hi> grew Victorious, <hi>Tranſilvania</hi> and <hi>Valachia</hi> invaded and ſpoiled by the <hi>Turk,</hi> the great Battle between <hi>Amurath</hi> and the King <hi>
+                  <g ref="char:V">Ʋ</g>ladiſtance,</hi> the <hi>Chriſtians</hi> loſt the day, after the <hi>Chriſtians</hi> break the Truce with the <hi>Turks;</hi> in the year 1445 <hi>Greece</hi> was made. Tributa<g ref="char:EOLhyphen"/>ry to the <hi>Turks;</hi> in the year 1448 was the great Battle be<g ref="char:EOLhyphen"/>tween <hi>Amurath</hi> and <hi>Huniades,</hi> where moſt part of the <hi>Hun<g ref="char:EOLhyphen"/>garian</hi> Nobility, with 57000 <hi>Turks</hi> and <hi>Chriſtians</hi> were ſlain.</p>
+            <p>In the year 1450 <hi>Amurath</hi> died, and <hi>Mahomet</hi> the firſt Em<g ref="char:EOLhyphen"/>perour, but the ſecond of that Name, began to Reign; in the year, 1453 <hi>Conſtantinople</hi> was taken by the <hi>Turk,</hi> and alſo the Country of <hi>Servia.</hi>
+            </p>
+            <p>In the year 1456 <hi>Huniades</hi> obtained a great Victory againſt the <hi>Turks,</hi> that being but two years after the Oppoſition of <hi>Saturn</hi> and <hi>Jupiter</hi> from <hi>Virgo</hi> and <hi>Taurus,</hi> both of them caſt<g ref="char:EOLhyphen"/>ing their hateful Square to the Sign <hi>Aquarius,</hi> the place of the Conjunction at the Riſe of the <hi>Othoman</hi> Family, <hi>Mahomet</hi> the ſame time being wounded and carryed away for dead.</p>
+            <p>In the year 1464 there was a Conjunction of <hi>Saturn</hi> &amp; <hi>Jupiter</hi> in <hi>Piſcis,</hi> in this year <hi>Mahomet</hi> invades <hi>Epirus,</hi> &amp; <hi>Scanderbeg,</hi> doth deſtroy a great many of the <hi>Turks,</hi> and: until <hi>Scanderbeg</hi> died, <hi>Mahomet</hi> could not get any thing by invading of that Country. <hi>Scanderbeg</hi> died in the year 1466, and from that time till 1470 the <hi>Turks</hi> did not proſper, for <hi>Mathias</hi> King of <hi>Hungaria</hi> took the Kingdom of <hi>Boſna</hi> from the <hi>Turks</hi> in the year 1469; but in the year 1470 <hi>Chalcis</hi> and the chief City of <hi>Euhoa</hi> were taken by the <hi>Turks,</hi> but yet the <hi>Venetian</hi> and the great Maſter of the <hi>Rhodes</hi> did great harm along the Coaſt of leſſer <hi>Aſia:</hi>
+            </p>
+            <pb n="11" facs="tcp:93807:10"/>
+            <p>In the year 1478 <hi>Scodra</hi> was taken by the <hi>Turk</hi> after a years. Siege; and in the year 1481 <hi>Mahomet</hi> was poiſoned, and <hi>Ba<g ref="char:EOLhyphen"/>jazet</hi> began his Reign.</p>
+            <p>In the year 1484 there was a Conjunction of <hi>Saturn</hi> and <hi>Ju<g ref="char:EOLhyphen"/>piter</hi> in <hi>Virgo,</hi> in Square to the Conjunction that preceded their Riſe: during the time of the Operation of this Con<g ref="char:EOLhyphen"/>junction the <hi>Turk</hi> did not proſper at all, for the <hi>Mama<g ref="char:EOLhyphen"/>lukes</hi> in <hi>Aegypt</hi> gained great Victory againſt him, and he at laſt was poiſoned in the year 1512, there being a Con<g ref="char:EOLhyphen"/>junction of <hi>Saturn</hi> and <hi>Jupiter</hi> nine years before in <hi>Can<g ref="char:EOLhyphen"/>cer</hi> and the Oppoſition of <hi>Saturn</hi> and <hi>Jupiter</hi> was a haſten<g ref="char:EOLhyphen"/>ing from <hi>Virgo</hi> and <hi>Tanrus,</hi> both of them being in <hi>Square</hi> to the Conjunction precede the Riſe of the Family. <hi>Selymus</hi> his Son Reigned In his ſtead.</p>
+            <p>In the year 1250 began the Kingdom of the <hi>Mamalukes</hi> in <hi>Aegypt,</hi> under a Conjunction of <hi>Saturn</hi> and <hi>Jupiter</hi> in <hi>Li<g ref="char:EOLhyphen"/>bra;</hi> and under a Conjunction of <hi>Saturn</hi> and <hi>Jupiter</hi> in <hi>Can<g ref="char:EOLhyphen"/>cer, Selymus</hi> drove the <hi>Mamalukes</hi> out of <hi>Aegypt,</hi> the Con<g ref="char:EOLhyphen"/>junction was in the year 1503; and in the year 1517 was the Downfall of the <hi>Mamalukes.</hi>
+            </p>
+            <p>In the year 1520 died <hi>Selymus,</hi> and his Son <hi>Solymon</hi> began to Reign: and in the year 1521 <hi>Belgrade</hi> was won by <hi>Soly<g ref="char:EOLhyphen"/>man.</hi> And in the year 1522 the Iſland of <hi>Rhodes</hi> was alſo ta<g ref="char:EOLhyphen"/>ken by <hi>Solymon.</hi>
+            </p>
+            <p>There was a Conjunction of <hi>Saturn</hi> and <hi>Jupiter</hi> in <hi>Piſcis</hi> in the year 1525. <hi>Solymon</hi> invaded <hi>Hungaria;</hi> and in the year 1526 the King of <hi>Hungaria</hi> was drowned in a Dith; and in the ſame year the <hi>Vavod</hi> of <hi>Tranſilvania</hi> choſen King of <hi>Hun<g ref="char:EOLhyphen"/>garia;</hi> and in the year 1528 King <hi>John</hi> was driven out of <hi>Hun<g ref="char:EOLhyphen"/>garia</hi> by <hi>Fardinando;</hi> and is himſelf Crowned King at <hi>Alba Re<g ref="char:EOLhyphen"/>gulis;</hi> and in 1529 <hi>Solymon</hi> came again into <hi>Hungaria</hi> with a great Army, and takes <hi>Buda</hi> without Reſiſtance, and ſpoiles <hi>Auſtria, Attenburgh</hi> taken, and <hi>Solyman</hi> beſieges <hi>Vienna,</hi> but is forced to raiſe the Siege with the loſs of eighty thouſand men; but <hi>Solymon</hi> reſtored King <hi>John</hi> to the Kingdom of <hi>Hungaria.</hi>
+            </p>
+            <p>In the year 1532 <hi>Solyman</hi> cometh again into <hi>Hungaria,</hi> and ſends 15000, men under the Command of <hi>Caſon</hi> to ſpoil <hi>Auſtria!</hi> A great Blazing Star ſeen.</p>
+            <pb n="12" facs="tcp:93807:11"/>
+            <p>In the year 1523 the <hi>Turk</hi> beſieged <hi>Carone,</hi> but was beat off. In the year 1537 King <hi>Ferdinand</hi> breaks League with <hi>Solymon,</hi> but got little by it but the loſs of the <hi>Chriſtians.</hi>
+            </p>
+            <p>In the year 1540 King <hi>Ferdinand</hi> invades <hi>Hungaria,</hi> and takes <hi>Vicgrod:</hi> and in the year 1541 the Queen of <hi>Hungaria</hi> joyn<g ref="char:EOLhyphen"/>eth with the <hi>Turk,</hi> and burns <hi>Vacia,</hi> and takes <hi>Buda;</hi> and <hi>So<g ref="char:EOLhyphen"/>lymon</hi> craftily detains the Nobles of <hi>Hungaria</hi> in his Camp, and converts the Kingdom of <hi>Hungaria</hi> to a Province of the <hi>Turkiſh</hi> Empire; and in the year 1543 <hi>Alba Regulus</hi> is taken: In that year there was a Conjunction of <hi>Saturn</hi> and <hi>Jupiter</hi> in <hi>Virgo,</hi> in ſquare to the Conjunction that preceded the Riſe of the Family; from that year to the year 1563 the Empire had but little Succeſs; but in the year 1563 there was a Conjunction of <hi>Saturn</hi> and <hi>Jupiter</hi> in <hi>Cancer:</hi> and in the year 1566 there doth ariſe new troubles in <hi>Hungaria: Solymon</hi> dyes of the <hi>Bloody-Flux</hi> at the Siege of <hi>Sigeth,</hi> and <hi>Selymus</hi> Succeeds.</p>
+            <p>In the year 1570 <hi>Nicoſia</hi> and <hi>Cyren</hi> was taken by the <hi>Turk:</hi> and in the Year 1571 the <hi>Turks</hi> take <hi>Cyprus:</hi> and in this year was that famous Fight at <hi>Lepanto</hi> by Don <hi>John</hi> of <hi>Auſtria.</hi> In the year 1574. <hi>Maldavia</hi> and <hi>Valachia</hi> taken by the <hi>Turk; Selymus</hi> dyes, and <hi>Amurath</hi> Succeeds.</p>
+            <p>In 1575 <hi>Amurath</hi> invadeth <hi>Poland,</hi> burned and deſtroyed two hundred Noblemens Houſes, beſides a number of <hi>Towns</hi> and <hi>Villages;</hi> and in the year 1577 they conclude a Peace again; and from this year to the year 1592 he bends all his Forces a<g ref="char:EOLhyphen"/>gainſt <hi>Perſia,</hi> and that way doth increaſe the Territories very much.</p>
+            <p>And in the year 1592 <hi>Amurath</hi> invades <hi>Croatia,</hi> and takes <hi>Siſog</hi> and in the year 1595 <hi>Amurath</hi> died, and <hi>Mahomet</hi> the third ſucceeded; and from this year 1595 the <hi>Chriſtians</hi> be<g ref="char:EOLhyphen"/>gan to get ground of the <hi>Turks;</hi> for in the year 1596 was a great Plague and Famine in <hi>Hungaria</hi> among the <hi>Turks;</hi> and in the year 1598 <hi>Tranſilvania</hi> ſubmitteth to the Empe<g ref="char:EOLhyphen"/>rour.</p>
+            <p>And alſo in the year 1596 was <hi>Strigonum</hi> and <hi>Vicegrade</hi> taken from the <hi>Turk</hi> by the <hi>Chriſtians,</hi> and alſo the <hi>Turks</hi> in<g ref="char:EOLhyphen"/>vade <hi>Valacha,</hi> and ar<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> forced to fly by the <hi>Chriſtians.</hi>
+            </p>
+            <p>In the years 1597 and 1598 the <hi>Turk</hi> hath no Succeſs, but
+<pb n="13" facs="tcp:93807:11"/>the <hi>Chriſtians</hi> gain ground of them; and in the year 1600 <hi>Al<g ref="char:EOLhyphen"/>ba Regulus</hi> was taken by the <hi>Chriſtians.</hi>
+            </p>
+            <p>But in the year 1602 <hi>Alba-Regulus</hi> was again taken by the <hi>Turks,</hi> and the <hi>Chriſtians</hi> take <hi>Peſth,</hi> and a many more Places; and in the latter end of 1603 <hi>Mahomet. III.</hi> dyed, and his Son <hi>Achmat</hi> ſucceeds; and ſoon after the Conjunction of <hi>Saturn</hi> and <hi>Jupiter</hi> in <hi>Sagittarius,</hi> 1603 the <hi>Perſian</hi> gains ground of the <hi>Turk,</hi> and there is great Trouble in <hi>Tranſil<g ref="char:EOLhyphen"/>vania.</hi>
+            </p>
+            <p>And in the year 1605 the <hi>Turks</hi> take <hi>Strigonium,</hi> but the <hi>Perſians</hi> gain ground upon the <hi>Turk,</hi> and there was for theſe two years a great Rebellion in <hi>Hungaria.</hi>
+            </p>
+            <p>In the year 1606 there was a Peace between the <hi>German</hi> Emperour and the <hi>Sultan</hi> of <hi>Turky.</hi>
+            </p>
+            <p>In the year 1611 a great Plague in <hi>Constantinople,</hi> where<g ref="char:EOLhyphen"/>of dyed 200000 Perſons.</p>
+            <p>In the year 1617 the Sultan <hi>Achmat</hi> dyed, and <hi>Muſtapha</hi> Succeeds, but is ſoon depoſed, and <hi>Oſman</hi> began at the age of ſixteen years.</p>
+            <p>But in the year 1622 <hi>Muſtapha</hi> is again re-inthroned, and <hi>Oſman</hi> ſtrangled by <hi>Daout Baſſa.</hi>
+            </p>
+            <p>In the year 1623. <hi>Mustapha</hi> is again depoſed, and <hi>Morat</hi> at the age of fourteen years began to Reign, during whoſe Reign he looſes all he had in <hi>Perſia,</hi> and was very much afflicted with Troubles: and all theſe things precede the Conjunction of <hi>Saturn</hi> and <hi>Jupiter</hi> in <hi>Leo,</hi> ſix De<g ref="char:EOLhyphen"/>grees in Oppoſition to the great Conjunction in 1285, in five Degrees of <hi>Piſcis.</hi>
+            </p>
+         </div>
+         <div n="4" type="chapter">
+            <pb n="14" facs="tcp:93807:12"/>
+            <head>CHAP. IV. Of the General <hi>Judgment Aſtrological</hi> of the further State of the Empire of the <hi>Turks,</hi> and what Countries of <hi>Europe</hi> will be moſt Paſſive.</head>
+            <p>BUt that we may begin our Work from ſome certain <hi>Epoche</hi> of time, and not involve our ſelves into a La<g ref="char:EOLhyphen"/>borinth of unneceſſary Enquiries. We are to conſider, that there is no material Accident either in Empires or Kingdoms which firſt of all had not a Beginning from ſome Radix. Therefore with great diligence the firſt Roots or Foundations of things are to be inquired into.</p>
+            <p>And therfore by an Inquiry we ſind the Conjunction of <hi>Saturn</hi> and <hi>Jupiter</hi> in <hi>Aquarius</hi> to proceed the Riſe of this Mighty Mo<g ref="char:EOLhyphen"/>narch, which in the year 1285, we ſhall make the Root of this, and for that reaſon have I ſet a Figure for the <hi>Now-Moon</hi> preceding <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Now if we make the Place of the Con<g ref="char:EOLhyphen"/>junction it ſelf to be the Degree Aſcending, and ſet the Figure for <hi>Conſtantinople,</hi> you will find <hi>Mars</hi> to be the Lord of the tenth Houſe; which doth repreſent the Honour and Grandure of the Empire, and <hi>Mars</hi> doth repreſent his Soul<g ref="char:EOLhyphen"/>diers, and that by the Sword he ſhould maintain and gain all his Reputation Now <hi>Mars</hi> being placed in <hi>Virgo,</hi> under which Sign Authors tell us is <hi>Achaia, Greece, Creet, Croatia, Corinthia, Antheſina,</hi> the Dukedom of <hi>Athens, Meſopotamia, Babylon, Aſſyria, Gallia, Sileſia:</hi> Cities, <hi>Hieruſalem, Corinth, Rhodes, Popia, Signia, Brunduſium, Aretium, Novaria, Tholoſa, Lyons, Paris, Baſil, Heidleburg, Erphord, Wratiſlavi.</hi> Beſides a many more Places which Authors have not allotted to this
+<pb n="15" facs="tcp:93807:12"/>Sign, as yet we ſind by experience that a great many of theſe Places already are annexed to this Empire.</p>
+            <p>Likewiſe thoſe Places that are in <hi>Sextile</hi> or <hi>Trine</hi> to the place of <hi>Mars</hi> at the time of this Conjunction, will alſo go nigh to be in ſubjection to him: all thoſe places of the <hi>Zodiack</hi> that are in the <hi>Sextile,</hi> is <hi>Cancer</hi> and <hi>Virgo;</hi> and thoſe places that are in the <hi>Trine,</hi> are <hi>Taurus</hi> and <hi>Capricorn.</hi> Now under <hi>Can<g ref="char:EOLhyphen"/>cer</hi> are ſaid to be <hi>Scotland, Granado, Burgundy. Holland, Ze<g ref="char:EOLhyphen"/>land, Pruſſia, Numidia, Africa, Bithinia, Chadchis, Carthage.</hi> Cities under, are <hi>Conſtantinople, Venice, Tunis, Genoa, Lucas, Piſa, Millaine, Berne, York,</hi> St. <hi>Andrew</hi> in <hi>Scotland, Lubeck, Megdeburg, Wittenburg, Gorlick.</hi>
+            </p>
+            <p>Under <hi>Virgo</hi> are <hi>Norway,</hi> Upper <hi>Bavaria, Matagony, Como<g ref="char:EOLhyphen"/>gena, Cappadocia, Idumia, Mauritania, Fez, Gethulia, Catalonia,</hi> Cities are, <hi>Algiers, Valentia</hi> in <hi>Spain, Trabezone, <g ref="char:V">Ʋ</g>rbine, Peſto<g ref="char:EOLhyphen"/>rium, Aquilegia, Camerinum, Tarviſum, Forum, Julium, Maſ<g ref="char:EOLhyphen"/>ſana, Vienna. Alehſtade, Monachum, Gaunt, Frankford</hi> upon <hi>Odor.</hi> A great many of theſe Places hath he already got, and the reſt will ſuffer by him in a ſhort time.</p>
+            <p>Under <hi>Taurus</hi> are <hi>Ruſſia, Polonia,</hi> Great <hi>Swedeland,</hi> the North part, <hi>Lorraign, Campania, Helvetia, Rhetia, Franconia, Parthia, Perſia, Ireland, Cyclades,</hi> the Iſland of <hi>Cyprus,</hi> and the Sea Towns of Leſſer <hi>Aſia:</hi> Of Cities, <hi>Bononia, Sona, Matua, Tarentum, Panorme</hi> in <hi>Sicily, Peruficum, Caput Hiſtria, Brixi, Zurich, Lucerne, Nants, Herbibolis, Carol<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tade, Poſnania, Lip<g ref="char:EOLhyphen"/>zig, Gneſna, Novograde.</hi> Beſides a many more places.</p>
+            <p>Under <hi>Virgo</hi> are <hi>Macedonia, Illyria, Thracia, Boſina, Albania, Bulgaria,</hi> part of <hi>Greece, Muſcovia, Lituania, Saxony, Haſſia, Thuringia, Marchia, Stiria, Orchades, India, Ariana, Gedra<g ref="char:EOLhyphen"/>ſia:</hi> Of Cities, <hi>Oxford, Mechlin, Juliacum, Berga, Branden<g ref="char:EOLhyphen"/>burg, Auſtuſta, Vindelicorum, Conſtance, Derthona, Faventia:</hi> So likewiſe all thoſe Places that are in <hi>Square</hi> and <hi>Oppoſition to Virgo,</hi> will meet with great Devaſtation by the force of this Empire. The Places that are in <hi>Square,</hi> are <hi>Gemini</hi> and <hi>Sagit<g ref="char:EOLhyphen"/>tarius.</hi> Now if we may believe the Antient, they tell that un<g ref="char:EOLhyphen"/>der <hi>Sagittarius</hi> are <hi>Spain, Dalmatia, Sclavonia, Hungary, Mora<g ref="char:EOLhyphen"/>via, Miſnia, Celtia, Thirronia, Arabia</hi> the happy: Of Cities, <hi>Toledo, Voleteras, Mutina, Narbon, Avinion, Colonia, Agrippina, Studgard, Rotenburg, Buda, Gaſcovia.</hi>
+            </p>
+            <pb n="16" facs="tcp:93807:13"/>
+            <p>And under <hi>Gemini</hi> are, according to Authors, part of <hi>Lum<g ref="char:EOLhyphen"/>berdy,</hi> part of <hi>England, Flanders, Brabant,</hi> and the Dukedom of <hi>Wertenburgh, Hircania, Armenia, Martiania, Cyrenia, Marma<g ref="char:EOLhyphen"/>rica, Aegypt the Lower:</hi> Of Cities, <hi>London, Corduba</hi> in <hi>Spain, Viturbium, Cecenam, Turny, Vercellas, Rhegium, Lovain, Bruges</hi> in <hi>Flanders, Mentz Kitzing, Hosford, Bamberge, Villacum, No<g ref="char:EOLhyphen"/>rimberg.</hi>
+            </p>
+            <p>And under <hi>Piſcis,</hi> the oppoſite Sign to <hi>Virgo,</hi> are according to Authors, <hi>Cilicia, Calabriana, Portugal, Galicia, Normandy, Phaſimia, Noſomonia</hi> in <hi>Libia, Garamantes, Lydia, Phamphilia,</hi> and Higher <hi>Aegypt:</hi> Of Cities, <hi>Alexandria, Hiſpolis, Com<g ref="char:EOLhyphen"/>poſtella, Parentium, Rhimes, Worms, Ratiſpont.</hi>
+            </p>
+            <p>So likewiſe not only all thoſe Places that are under the Signs that <hi>Mars</hi> doth behold, but all thoſe Places that the place of the Conjuction doth behold, and that is <hi>Aquarius, Libra, Leo, Aries.</hi>
+            </p>
+            <p>Under <hi>Aquarius</hi> the Place of the Conjunction are <hi>Amazonia, Sarmatia,</hi> Great <hi>Tartary, Valachia, Muſcovia,</hi> the South part of <hi>Swedeland, Weſtphalia, Moſel, Piedmont,</hi> part of <hi>Bavaria, Ethiopia, Oxiania, Sogdiana, Media, Arabia, Deſert</hi> and <hi>Stony:</hi> Of Cities, <hi>Hambourough, Breme, Mountferate, Piſarum, Trent, Salizburgh, Ingolſtade.</hi>
+            </p>
+            <p>Under <hi>Leo</hi> is <hi>Galla, Fagata,</hi> the <hi>Alps, Italy, Sicily, Apalia, Bohemia,</hi> part of <hi>Turky, Aemilia, Sabina, Phenicia, Chaldea, Orchinia:</hi> Of Cities, <hi>Demaſco, Syracuſe, Rome, Rovenna, Cre<g ref="char:EOLhyphen"/>mona, confluente, Prague, Liniz, Crimiſicum.</hi>
+            </p>
+            <p>Under <hi>Libra</hi> are <hi>Auſtria, Alſatia, Livoia, Sabandia, Delphi<g ref="char:EOLhyphen"/>nat, Baſtrina, Thuſia Seres, Caſpia, Thebadu, Olſim, Trogloditica, Sundgavia:</hi> Of Cities, <hi>Lisbon, Cajetam, Laudam, Sueſſam, Placentia, Felkirch, Friburg, Argentine, Spiers, Frankford</hi> at <hi>Mane Holam, Suenorum, Wimpina, Hei<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bran, Friſings, Moſpa<g ref="char:EOLhyphen"/>chiam, Laudſhut, Vienna</hi> in <hi>Auſtria, Antwerp.</hi>
+            </p>
+            <p>And under <hi>Aries</hi> are ſaid to be <hi>England, France, Germany</hi> in general, Higher <hi>Sileſia,</hi> part of <hi>Polonia, Burgundy, Denmark, Baſternia, Syria, Paleſtine:</hi> Cities, <hi>Naples, Capua, Ancona, Farrara, Florence, Verona, Bergano, Lindaw, <g ref="char:V">Ʋ</g>trecht, Pa<g ref="char:EOLhyphen"/>dua, Marcelles, Epidaure, Crackow, Auguſtam, Caragoſa, Wenieca.</hi>
+            </p>
+            <pb n="17" facs="tcp:93807:13"/>
+            <p>It is very well worth our noting, that the Conjunction and the place of <hi>Mars</hi> doth behold all the twelve Signs: but it cannot be expected that the Turk ſhould have all the Places that are under the twelve Sings; but he will go night to have all thoſe Places that had their beginning under the Influence of <hi>Saturn</hi> and <hi>Jupiter</hi> when they were conjoyned, in four, five, or ſix Degrees of any of them, becauſe thoſe parts both <hi>Mars Saturn</hi> and <hi>Jupiter</hi> do behold all round.</p>
+            <p>Now any one that will be but pleaſed to conſider all of the Conjunctions of <hi>Saturn</hi> and <hi>Jupiter</hi> is any of the Sigus ſince the Riſe of this Family, you will find that theſe Places have been the greateſt Sufferers, that had their Signs beholding the place of <hi>Mars</hi> by any bad Aſpect in the Conjunction that pre<g ref="char:EOLhyphen"/>ceded the Riſe of that Family.</p>
+            <p>And ſeeing that great Expectations of the <hi>Turks</hi> Mo ion into <hi>Eundpe</hi> upon the Conjunction of <hi>Saturn</hi> and <hi>Jupiter</hi> in 1682 and 1683, we olight to conſider how the Figure of this Conjunction doth ſympathiſe with the Conjunction that was the Riſe of the Family; the Figures of the Conjunction you may ſee in my <hi>Ca<g ref="char:EOLhyphen"/>taſtrophs Mundi.</hi> Now if we place the Conjunction it ſelf upon the Cuſp of the Aſcendant, and ſet the Figure for <hi>Conſtantino<g ref="char:EOLhyphen"/>ple,</hi> you will find <hi>Mars</hi> to be upon the Radical place of <hi>Mars</hi> in the Conjunction in 1285, and there doth make a very quick paſſage through that Sign: and before the ſecond Conjuncti<g ref="char:EOLhyphen"/>on in 168<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>/3 in <hi>January, Mars</hi> will have got into <hi>Libra,</hi> and there doth make a long and tedious tranſite, no leſs than eight Months; and all the while he paſſes through <hi>Libra</hi> he doth af<g ref="char:EOLhyphen"/>flict <hi>Capricorn, Cancer</hi> and <hi>Aries</hi> beſides the Sign he paſſes through; by his Paſſage through <hi>Libra</hi> he doth threaten <hi>Au<g ref="char:EOLhyphen"/>ſtria</hi> with great Devaſtation, and alſo the taking of <hi>Vienna</hi> it ſelf, and the general Conqueſt of the Eaſt Part of <hi>Germany,</hi> and almoſt all thoſe Places that are in <hi>Chriſtendom</hi> under <hi>Libra, Aries, Capricorn,</hi> and <hi>Cancer,</hi> about five Degrees there<g ref="char:EOLhyphen"/>of.</p>
+            <p>And that the young Artiſt may be able to give a reaſon<g ref="char:EOLhyphen"/>able Conjecture of <hi>Mars</hi>'s long tranſit through <hi>Libra,</hi> it will be convenient to ſet a Figure for the New Moon preceding the ſecond Conjunction, becauſe at that time the <hi>Sun</hi> was Eclipſ<g ref="char:EOLhyphen"/>ed,
+<pb n="18" facs="tcp:93807:14"/>and the middle of that Ecclipſe fell at <hi>London,</hi> by the beſt Tables, at 4 hours 35 minutes <hi>poſt Meridiem:</hi> and at <hi>Vienna.</hi> in <hi>Auſtria</hi> at 5 hours 40 minutes <hi>poſt Meridiem,</hi> and in the La<g ref="char:EOLhyphen"/>titude of 48 degrees 22 minutes was this following Figure ſet.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell>10 Houſe ♉ 7 45</cell>
+                     <cell>4 Houſe ♏ 7 45</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>11 Houſe ♊ 20</cell>
+                     <cell>5 Houſe ♐ 20</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>12 Houſe ♋ 25 30</cell>
+                     <cell>6 Houſe ♑ 25 30</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>☿ in ♒ 1 0</cell>
+                  </row>
+                  <row>
+                     <cell>☊ in ♌ 15 00</cell>
+                     <cell>☉ <g ref="char:Moon">☽</g> 8 d. 10 m. ♒</cell>
+                  </row>
+                  <row>
+                     <cell>♄ in ♌ 17 57</cell>
+                     <cell>☋ in ♒ 15</cell>
+                  </row>
+                  <row>
+                     <cell>♃ in ♌ 18 38</cell>
+                     <cell>♀ 18 12 ♒ <choice>
+                           <abbr>℞</abbr>
+                           <expan>retrograde</expan>
+                        </choice>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Aſeendant ♌ 20</cell>
+                     <cell>7 Houſe ♒ 20</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>2 Houſe ♍ 11 10</cell>
+                     <cell>Houſe ♓ 11 10</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Houſe ♎ 4 50</cell>
+                     <cell>Houſe ♈ 4 50</cell>
+                  </row>
+                  <row>
+                     <cell>♂ in ♎ 23 11</cell>
+                     <cell> </cell>
+                  </row>
+               </table>
+            </p>
+            <p>The rea<g ref="char:EOLhyphen"/>ſon that I ſet this figure for <hi>Vienna</hi> in <hi>Au<g ref="char:EOLhyphen"/>ſtria,</hi> is be<g ref="char:EOLhyphen"/>cauſe that <hi>Sa<g ref="char:EOLhyphen"/>turn</hi> and <hi>Ju<g ref="char:EOLhyphen"/>pirer</hi> are near then ariſing in their Ho<g ref="char:EOLhyphen"/>riſon when the <hi>Sun</hi> ſuf<g ref="char:EOLhyphen"/>fers, the greateſt de<g ref="char:EOLhyphen"/>fect, and at that very ſame time both <hi>Sun</hi> and <hi>Moon</hi> and <hi>Mercury</hi> are in Square to the Sign of the 10th. Houſe, and <hi>Venus,</hi> Lady of the 10th. Houſe is in Oppoſition to the Con<g ref="char:EOLhyphen"/>junction it ſelf, and is Retrograde alſo, and doth run ſo far: backward in the Sign ſhe is in, until ſhe doth come to be in Square to the 10th Houſe alſo, and then doth tranſit the place of the Ecclipſe with a Conjunction, and when ſhe is become di<g ref="char:EOLhyphen"/>rect again, meet both with Oppoſition of <hi>Saturn</hi> and <hi>Jupiter.</hi> All theſe things are very well worth any Artiſt's taking notice of; by which he may find what is a coming upon that part of
+<pb n="19" facs="tcp:93807:14"/>
+               <hi>Chriſtendom.</hi> Now it is allowed by all that have any knowledge in <hi>Aſtrology,</hi> that the Aſcendant of an Ecclipſe doth repre<g ref="char:EOLhyphen"/>ſent the commonality of People, if ſo, you will find <hi>Sol</hi> the Lord thereof to be Ecclipſed by the <hi>Moon,</hi> Lady of the twelfth Houſe, what can be expected from thence, but that thoſe ſort of People inhabiting in thoſe Eaſt Parts of <hi>Germany,</hi> ſhould come to have great calamity fall upon them, and that by a Lunar ſort of People. Now the <hi>Moon</hi> in the great Conjunction preceding the Riſe of the <hi>Othoman</hi> Family, is Lady of the ſixth Houſe, and by that meanes doth repreſent the Subjects and Vaſſals of that Family; and in this Conjunction, Ecclipſing the <hi>Sun</hi> not far from the oppoſite Place of that Conjunction, doth declare, ac<g ref="char:EOLhyphen"/>cording to Art, that they ſhall over run all thoſe Places of <hi>Germa<g ref="char:EOLhyphen"/>ny,</hi> that had <hi>Leo</hi> ariſing at the middle time of the Ecclipſe, and all thoſe Countries that are under <hi>Leo, Aquarius, Taurus</hi> and <hi>Scorpio,</hi> and likewiſe will overthrow all thoſe <hi>Monarchs</hi> that have their Riſe or Foundation under the Influence of a Conjunction of <hi>Sa<g ref="char:EOLhyphen"/>turn</hi> and <hi>Jupiter</hi> in <hi>Leo, Taurus</hi> and <hi>Scorpio:</hi> but thoſe Places will firſt have their ſhare of Suffering that are under <hi>Aquarius,</hi> the place of the Ecclipſe: among which places, let <hi>Valachia</hi> and the <hi>South</hi> Part of <hi>Poland</hi> beware; neither ſhall <hi>Muſcovia</hi> be free, but ſhall taſt part of the bitter Cup that is allotted for <hi>Europe</hi> to taſt. <hi>Mars</hi> making of his long tranſit in <hi>Libra,</hi> tells us that <hi>Auſtria</hi> ſhall be much waſted, and the People thereof be brought very low, and a great part of them will be carried Captive, and their great Town <hi>Vienna</hi> will go near to be loſt; and the Seat of War will laſt longer in <hi>Austria</hi> than in any other part of <hi>Germany.</hi> The <hi>Moon</hi> and <hi>Sun</hi> and the Conjuncti<g ref="char:EOLhyphen"/>on it ſelf being in <hi>Square</hi> to <hi>Taurus,</hi> doth declare that <hi>Poland</hi> ſhould be much waſted by both <hi>Turk</hi> and <hi>Tartar,</hi> for this Con<g ref="char:EOLhyphen"/>junction is in Square to the eleventh Houſe of that Kings Electi<g ref="char:EOLhyphen"/>on, and the Ecclipſes fall in the ſecond; and <hi>Mercury,</hi> Lord of the ſeventh Houſe at the time of his Election, is in this Ecclipſe in Square to his tenth; and <hi>Mars,</hi> Lord of the tenth, is in <hi>Li<g ref="char:EOLhyphen"/>bra</hi> weak; this bids <hi>Poland</hi> to be very careful how he doth go to War during the time that this Conjunction is alot<g ref="char:EOLhyphen"/>ted to operate, which will be near twenty years; for if he doth fall to War with either <hi>Turk</hi> ot <hi>Tartar,</hi> he muſt expect to gain
+<pb n="20" facs="tcp:93807:15"/>nothing but the Devaſtation of his fruitful Country, with the deſtruction of his People, if not the bazard of the Crown and Dignity of that Kingdom.</p>
+            <p>Neither will the <hi>Swede</hi> be in a better condition, for if he doth go to War with any of his Neighbours, he will receive great damage by it, if not loſe part of his Coun<g ref="char:EOLhyphen"/>try.</p>
+            <p>And by reaſon of <hi>Mars</hi> being placed in <hi>Virgo</hi> at the time of the firſt of the three Conjunctions, and did make a ſwift paſ<g ref="char:EOLhyphen"/>ſage through that Sign: this doth declare that <hi>Croatia</hi> ſhould be one of the firſt Places that the <hi>Turks</hi> ſhould bring under their Subjection, and will make great waſte in that Province, and car<g ref="char:EOLhyphen"/>ry the People Captive.</p>
+            <p>And becauſe <hi>Mars</hi> at that time he was in <hi>Virgo,</hi> did caſt his hateful Square to the Sign <hi>Sagittarius,</hi> doth declare according to Art, that <hi>Hungaria</hi> ſhall ſuffer much by the <hi>Turks,</hi> and ſhall by them be made deſolate in thoſe parts next <hi>Moravia,</hi> and they will bring that Kingdom under their Subjection in a ſhort time.</p>
+            <p>
+               <hi>Moravia</hi> being under <hi>Sagittarius,</hi> muſt expect to have a great ſhare of the <hi>Turks</hi> Invaſion, and a great many of thy Towns and Cities will be laid waſte, and a great ſcarcity of Corn will be in thoſe Parts, by reaſon of the Raging of Ar<g ref="char:EOLhyphen"/>mies.</p>
+            <p>Neither will <hi>Slavonia</hi> be free from the Calamity of hot Neigh<g ref="char:EOLhyphen"/>bours; for the Great <hi>Turk</hi> ſhall make his Way into <hi>Italy</hi> that way, and ſhall bring under his Yoke that Country, and will car<g ref="char:EOLhyphen"/>ry the People into Bondage.</p>
+            <p>And by reaſon that <hi>Saturn</hi> and <hi>Jupiter</hi> make a Triple Con<g ref="char:EOLhyphen"/>junction in the Sign <hi>Leo,</hi> doth declare that the <hi>Turk</hi> ſhould ad<g ref="char:EOLhyphen"/>vance his Forces into <hi>Bohemia,</hi> and ſhall there do grent damage; he will lay waſte all the <hi>Monaſteries,</hi> and will carry the <hi>Prieſts</hi> into perpetual Bondage. It doth grieve my heart to think what great Calamity will fall upon that Kingdom. Under the Conjunction of <hi>Saturn</hi> and <hi>Jupiter</hi> in <hi>Leo</hi> was the laſt <hi>Bohemian</hi> War, which cauſed that Place to indure moſt ſad Calamity: but thoſe that were the Cauſe of that Evil in thoſe days, will all of them be brought to deſtruction, that there will not be ſo much as one Neſt for thoſe Unclean Birds left: Oh!
+<pb n="21" facs="tcp:93807:15"/>the many years of great Scarcity that ſhall full upon that Place, occaſioned by the Devaſtation that is like to be by War.</p>
+            <p>This Triple Conjunction being in <hi>Leo,</hi> falls in Square to <hi>Scor<g ref="char:EOLhyphen"/>pi<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> this doth bid the Duke of <hi>Bavaria</hi> look to his Country, for the <hi>Turk</hi> is like to invade him with a very great Army, and will lay waſte a great part of his Territories, and joyn it to the reſt of his Conqueſt. And <hi>Mars</hi> being poſited in <hi>Virgo</hi> at the firſt time of the three Conjunctions, doth foreſhew that the Dukedom of <hi>Wittenburgh</hi> ſhall have the <hi>Turk</hi> to Range in his Bowels, and make great Devaſtation; at which time the Crown of <hi>France,</hi> will begin to ſhake for fear, and wiſh that he was a little farther from him; but it will be in vain, for the <hi>Turk</hi> will invade his new Conqueſt in <hi>Alſatia,</hi> and from thence paſs through <hi>Lorrain</hi> into <hi>France,</hi> and take <hi>Burgundy</hi> in the twinkling of an eye; all the ſeventeen United Provinces ſub<g ref="char:EOLhyphen"/>mit to his Protection without being invaded, and by ſo doing ſave their Country from Fire and Sword: and at the ſame time the <hi>Turk</hi> is ſo Victorious in the <hi>South-Weſt</hi> Parts of <hi>Germany;</hi> Another part of his vaſt great Army will Range in the <hi>North</hi> and <hi>North-Weſt</hi> Parts thereof, and paſs through <hi>Bohemia,</hi> and enter <hi>Franconia,</hi> and from thence he will invade both Higher and Lower <hi>Saxony,</hi> even as far as the <hi>North</hi> Parts thereof: it will ſeem ſtrange to hear that the <hi>Turk</hi> ſhould be got ſo far into <hi>Ger<g ref="char:EOLhyphen"/>many</hi> as <hi>Weſtphalia,</hi> and the Country of <hi>Juliers,</hi> but ſo it will be, and God's Will muſt be done. <hi>Germany</hi> was firſt conquer<g ref="char:EOLhyphen"/>ed by the <hi>Romans,</hi> under the Influence of a Conjunction of <hi>Sa<g ref="char:EOLhyphen"/>turn</hi> and <hi>Jupiter</hi> in <hi>Scorpio;</hi> and the Empire of the <hi>Romans</hi> was Erected under the Conjunction of <hi>Saturn</hi> and <hi>Jupiter</hi> in <hi>Scorpio;</hi> this Conjunction falls in Square to that, and this Ecclipſe falls in Square to that alſo, and the Ecclipſe being the <hi>Lunation</hi> be<g ref="char:EOLhyphen"/>fore the ſecond Conjunction of <hi>Saturn</hi> and <hi>Jupitor, January,</hi> 1682/3 this will cauſe that Empire to have a very great Shake, if not totally ſubverted to the Power of the <hi>Othoman</hi> Family: and ſeeing that there is ſuch great Preparation on all Sides for a great War with the <hi>Turk,</hi> it will be needful for us to con<g ref="char:EOLhyphen"/>ſider the Nativity of this preſent Emperour of <hi>Germany,</hi> and there to ſee what Directions he hath. This preſent Emperour of <hi>Germany</hi> was Borr the 30th. day of <hi>May,</hi> Old Stile, 1640, at
+<pb n="22" facs="tcp:93807:16"/>nine <hi>Hours 3 Minutes poſt Meridiem,</hi> in the Latitude of 48 <hi>Degrees.</hi> The Figute is as followeth.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell>M C in ♏ 7 42</cell>
+                     <cell>4 Houſe in ♉ 7 42</cell>
+                  </row>
+                  <row>
+                     <cell>☊ in ♏ 28 17</cell>
+                     <cell>♀ in ♉ 21 48</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>☋ in ♉ 28 17</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>☿ in ♉ 28 52</cell>
+                  </row>
+                  <row>
+                     <cell>11 Houſe in ♏ 26 16</cell>
+                     <cell>5 Houſe in ♉ 26 16</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>12 Houſe in ♐ 13 17</cell>
+                     <cell>6 Houſe in ♊ 13 17</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>☉ in ♊ 19 17</cell>
+                  </row>
+                  <row>
+                     <cell>♃ in ♑ 4 54</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Aſcendant ♑ 6 20</cell>
+                     <cell>7 Houſe ♋ 6 20</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>2 Houſe ♒ 17</cell>
+                     <cell>8 Houſe ♌ 17</cell>
+                  </row>
+                  <row>
+                     <cell>♂ in ♒ 22 23</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>♄ 0 58 in ♓</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <g ref="char:Moon">☽</g> 2 24 in ♓</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>3 Houſe in ♈ 7 30</cell>
+                     <cell>9 Houſe ♎ 7 30</cell>
+                  </row>
+               </table>
+            </p>
+            <p>This Nativity was rectified by the M.C. to the Square of <hi>Saturn</hi> and <hi>Jupiter</hi> and Square of the <hi>Moon;</hi> at which time the Empe<g ref="char:EOLhyphen"/>rour had great Suffering both to himſelf and Em<g ref="char:EOLhyphen"/>pire, for the <hi>Turk</hi> did invade him: alſo at the ſame time he had his <hi>Moon</hi> by directi<g ref="char:EOLhyphen"/>on to the Square of <hi>Jupiter.</hi>
+            </p>
+            <p>
+               <table>
+                  <head>The Latitude of the Planets.</head>
+                  <row>
+                     <cell>
+                        <hi>Saturn</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>40</cell>
+                     <cell>South.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Jupiter</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>53</cell>
+                     <cell>North.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Mars</hi>
+                     </cell>
+                     <cell>2</cell>
+                     <cell>30</cell>
+                     <cell>South.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Venus</hi>
+                     </cell>
+                     <cell>1</cell>
+                     <cell>20</cell>
+                     <cell>South.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Mercu.</hi>
+                     </cell>
+                     <cell>3</cell>
+                     <cell>50</cell>
+                     <cell>South.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Moon</hi>
+                     </cell>
+                     <cell>5</cell>
+                     <cell>00</cell>
+                     <cell>North.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>M. C. R. A is 215 19</p>
+            <p>Oblique Aſcention of the Aſcendant is 305 19.</p>
+            <list>
+               <item>
+                  <hi>D. M.</hi>
+               </item>
+               <item>The Right Aſcention of the <hi>Sun</hi> is — 79 25</item>
+               <item>The Declination of the <hi>Sun</hi> is — 23 14</item>
+               <item>The diſtance of the <hi>Sun</hi> from the <hi>Meridian</hi> 44 06</item>
+               <item>The Aſcential dif<g ref="char:EOLhyphen"/>ference — 26 46</item>
+               <item>The <hi>Sun's</hi> Pole of Poſition is — 46 22</item>
+               <item>The Oblique Deſcenti<g ref="char:EOLhyphen"/>on under that Role 106 11</item>
+               <item>The Right Aſcention of the <hi>Moon</hi> with Latitude 332 35</item>
+               <item>The Declination of the <hi>Moon</hi> with Latitude: — South 6 4</item>
+               <item>The <hi>Moons</hi> diſtance from the <hi>Meridian</hi> 62 49</item>
+               <item>The <hi>Moons</hi> Aſcential difference 5 40</item>
+               <pb n="23" facs="tcp:93807:16"/>
+               <item>The Pole of the <hi>Moon</hi> 43 3</item>
+               <item>The Oblique Aſcention of the <hi>Moon</hi> under that Pole 338 10</item>
+               <item>The Right Aſcention of part of Fortune, is 170 19</item>
+               <item>The Declination of part of Fortune is 4 11</item>
+               <item>The diſtance of part of Fortune from the <hi>Meridian</hi> 45 00</item>
+               <item>The Aſcential difference of part of Fortune is 3 7</item>
+               <item>The Pole of Poſition of part of Fortune is 36 37</item>
+               <item>The Oblique Deſcention of part of Fortune is 173 26</item>
+            </list>
+            <p>Where note, that the <hi>Pole</hi> of <hi>Poſition</hi> of bo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h <hi>San</hi> and <hi>Moon,</hi> and part of <hi>Fortune</hi> was found by the Doctrine of Triangles.</p>
+            <p>Thus have you the Nativity of this mighty Monarch truly Rectified; and any one that will but take the Pains to run down all the Direction, will find them to agree very well. The next thing will be for us to inquire what Direction this Emperour hath now operating. The firſt is the Mid-heaven by direction to the Oppoſition of the <hi>Sun,</hi> and the Aſcendant of the Body of <hi>Saturn</hi> with Latitude, and the Body of the <hi>Moon</hi> without Latitude, and the <hi>Sun</hi> to the two <hi>Aſſes,</hi> and the <hi>Moon</hi> to the fourth Houſe, and his part of Fortune to the Square of <hi>Mars</hi> and Oppoſition of <hi>Venus.</hi> All theſe Directions are enough to deſtroy any Man in the whole World; but what theſe Directions do ſignifie I leave to the Artiſt to con<g ref="char:EOLhyphen"/>ſider —And to welcome them in, the <hi>Turk</hi> is coming againſt him with a very great Army and (what the Event thereof will be we muſt wait upon time to de<g ref="char:EOLhyphen"/>termine. And becauſe the <hi>Turk</hi> doth give the Alarm to all <hi>Europe,</hi> it will be needful for us to conſider that mighty Monarchs Genature alſo. He was Born on the <hi>Iſt.</hi> of <hi>January</hi> 1641/2, 5 Hours 20 Minutes 12 Seconds A. M. and it was Rectified by the M. C. to the Sextile of the <hi>Sun,</hi> at which time he came to the Throne and Digni<g ref="char:EOLhyphen"/>ty of his Anceſtors, and the Figure for the Rectified time is as followeth.</p>
+            <pb n="24" facs="tcp:93807:17"/>
+            <p>
+               <table>
+                  <row>
+                     <cell>M. C. in ♎ 23 19</cell>
+                     <cell>4 Houſe in ♈ 23 19</cell>
+                  </row>
+                  <row>
+                     <cell>☊ in ♎ 28 58</cell>
+                     <cell>☋ in ♈ 28 58</cell>
+                  </row>
+                  <row>
+                     <cell>11 Houſe in ♏ 16 10</cell>
+                     <cell>5 Houſe in ♉ 16 20</cell>
+                  </row>
+                  <row>
+                     <cell>♂ in ♐ 1 50</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>12 Houſe ♐ 5 6</cell>
+                     <cell>6 Houſe ♊ 5 6</cell>
+                  </row>
+                  <row>
+                     <cell>♀ in ♐ 10 45</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Aſcendant ♐ 27 50</cell>
+                     <cell>7 Houſe ♊ 27 50</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>P. F.</hi> in ♐ 28 28</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>♀ 00 25 <choice>
+                           <abbr>℞</abbr>
+                           <expan>retrograde</expan>
+                        </choice> ♑</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>☉ 11 2 <choice>
+                           <abbr>℞</abbr>
+                           <expan>retrograde</expan>
+                        </choice> ♑</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <g ref="char:Moon">☽</g> 11 40 <choice>
+                           <abbr>℞</abbr>
+                           <expan>retrograde</expan>
+                        </choice> ♑</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>2 Houſe ♒ 2 30</cell>
+                     <cell>8 Houſe ♌ 2 30</cell>
+                  </row>
+                  <row>
+                     <cell>♃ in ♒ 14 21</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>♄ in ♒ 8 13</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>3 Houſe ♓ 18 30</cell>
+                     <cell>9 Houſe ♏ 18 30</cell>
+                  </row>
+                  <row>
+                     <cell>The Pole of <hi>Poſition</hi> of the <hi>Sun</hi> and <hi>Moon,</hi> and part of <hi>Fortune,</hi> was found by the Doctrine of Triangles.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>The <hi>Planets</hi> Lati<g ref="char:EOLhyphen"/>tude at that time.</head>
+                  <row>
+                     <cell>♄</cell>
+                     <cell>1</cell>
+                     <cell>15</cell>
+                     <cell>South</cell>
+                  </row>
+                  <row>
+                     <cell>♃</cell>
+                     <cell>0</cell>
+                     <cell>28</cell>
+                     <cell>South</cell>
+                  </row>
+                  <row>
+                     <cell>♂</cell>
+                     <cell>o</cell>
+                     <cell>10</cell>
+                     <cell>North</cell>
+                  </row>
+                  <row>
+                     <cell>♀</cell>
+                     <cell>1</cell>
+                     <cell>27</cell>
+                     <cell>North</cell>
+                  </row>
+                  <row>
+                     <cell>☿</cell>
+                     <cell>2</cell>
+                     <cell>16</cell>
+                     <cell>North</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <g ref="char:Moon">☽</g>
+                     </cell>
+                     <cell>4</cell>
+                     <cell>48</cell>
+                     <cell>North</cell>
+                  </row>
+               </table>
+            </p>
+            <p>M. C. R. A. is 201</p>
+            <p>37 Aſcendants oblique Aſcention is 291 37</p>
+            <list>
+               <item>☉ Right Aſcenti<g ref="char:EOLhyphen"/>on — 282 00</item>
+               <item>☉ Declination is — 23 3</item>
+               <item>☉ Diſtanceſ from the <hi>Meridi<g ref="char:EOLhyphen"/>an</hi> — 99 37</item>
+               <item>☉ Aſcential diffe<g ref="char:EOLhyphen"/>rence — 22 44</item>
+               <item>☉ <hi>Pole</hi> of <hi>Poſition</hi> — 42 15</item>
+               <item>☉ Oblique Aſcention under that <hi>Pole</hi> — 304 44</item>
+            </list>
+            <list>
+               <item>
+                  <g ref="char:Moon">☽</g> R. A. with La itude 281 33</item>
+               <item>
+                  <g ref="char:Moon">☽</g> Declination with Latitude 19 48</item>
+               <item>
+                  <g ref="char:Moon">☽</g> Diſtance from the <hi>Meridian</hi> 100 4</item>
+               <item>
+                  <g ref="char:Moon">☽</g> Aſcential Difference 19 21</item>
+               <item>
+                  <g ref="char:Moon">☽</g> 
+                  <hi>Pole</hi> of <hi>Poſition</hi> 43 1</item>
+               <item>
+                  <g ref="char:Moon">☽</g> Oblique Aſcention under that <hi>Pole</hi> 300 54</item>
+            </list>
+            <list>
+               <item>
+                  <hi>P. F.</hi> Right Aſcention 267 10</item>
+               <item>
+                  <hi>P. F.</hi> Declination 23 30</item>
+               <pb n="25" facs="tcp:93807:17"/>
+               <item>
+                  <hi>P. F.</hi> Diſtance <hi>ab Meridian</hi> 124 27</item>
+               <item>
+                  <hi>P. F.</hi> Aſcential Difference 23 28</item>
+               <item>
+                  <hi>P. F.</hi> Pole of <hi>Poſition</hi> 42 30</item>
+               <item>
+                  <hi>P. F.</hi> Oblique Aſcention under that Pole 290 38</item>
+            </list>
+            <p>Any Artiſt that will but take the Pains to run down the Di<g ref="char:EOLhyphen"/>rections of this Mighty Monarch, will find that he is ordained to gain a great part of Chriſtendom in a few years, for he hath his <hi>Aſcendant</hi> by direction to the body of <hi>Jupiter,</hi> with, and without Latitude in the years 1683 and 168<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, and he hath his Mid-heaven to Cor <hi>Scorpio</hi> in <hi>Sagittarius</hi> alſo at the ſame time; this will make him very proſperous in his Arms for at leaſt ſix years and more, and then he will go nigh to reſign to Death; in the mean time the now Emperour of <hi>Germany</hi> will have great Loſſes on all ſides: the M. C. of that Monarchs Nativity being by direction come to the <hi>Oppoſi<g ref="char:EOLhyphen"/>tion</hi> of the <hi>Sun,</hi> Lord of his eighth Houſe, the <hi>Oppoſition</hi> falls in the twelfth: this cannot but bring along with it a great deal of Evil; he looſes all his Reputation on a ſudden, the undoing of his Family, it bids him beware of being taken Priſoner this year by the <hi>Turk;</hi> which if he be, it will be a long Captivity, he will be out of Eſteem among his Subjects, his Allies will prove unfaithful to him, which will be one chief Cauſe of his Ruine: the <hi>Aſcendant</hi> of his Nativity is alſo come to the bo<g ref="char:EOLhyphen"/>dy of <hi>Saturn;</hi> this will load his Body with Sickneſs, and alſo his Mind with trouble, he ſhall grow very diſcontented, becauſe he ſees all things go againſt him, he thrives in nothing that he takes in hand, and all thoſe Princes that do joyn in Forces with him againſt the now Emperour of the <hi>Turks,</hi> will find, to their Coſt, what it is to joyn with ſuch an unfortunate Prince as he is like to be for ſome years, if not ſo long as he doth live: his <hi>Aſcendant</hi> being alſo at the ſame time directed to the body of the <hi>Moon,</hi> portends great danger to his Perſon by Water; and it doth alſo declare that he ſhall travel from Place to Place; it will be a great wonder if he be not in danger of his Life in a ſlight by Water; the <hi>Sun</hi> alſo being then directed to the two <hi>Aſ<g ref="char:EOLhyphen"/>ſes:</hi> hear what Mr. <hi>Lilly</hi> ſaith to ſuch a direction; he tells us that thoſe Perſons that have ſuch a direction, a ſoot ſhould have a very unhealthful time of it, and bring a ſharp Feaver along with it, the Native will be in danger of his Life by Gun-ſhot,
+<pb n="26" facs="tcp:93807:18"/>he loſeth both Honour and Fortune at once, he ſhould receive much damage by Souldiers, he will be in danger of a violent Death, or elſe condemned to perpetual Slavery; he hath alſo his part of Fortune directed at the ſame time to Square of <hi>Mars,</hi> and <hi>Oppoſition</hi> of <hi>Venus;</hi> this doth alſo bring along with it a great deal of loſs in Eſtate and Goods: in ſhort, never any man in this World ever had ſo many bad directions upon him at one time, but it was both the Ruine of him and his Family. And from theſe things I conclude that this will be a moſt unfor<g ref="char:EOLhyphen"/>tunate War to the Houſe of <hi>Aſtria,</hi> for they will but go nigh to loſe all they have.</p>
+            <p>Neither will the Kingdom of <hi>France</hi> eſcape the hands of the <hi>Turk,</hi> for he will lay waſte a great many of his Floriſhing Ci<g ref="char:EOLhyphen"/>ties, but it will be occaſioned by his own Subjects, for his Op<g ref="char:EOLhyphen"/>preſſion will be ſo great, that they will cauſe a great Rebellion in <hi>France,</hi> and when the <hi>Turk</hi> is in <hi>Germany</hi> they will invite them into <hi>France,</hi> and then wo to <hi>Italy</hi> and <hi>Spain,</hi> but ſeeing the Welfare of <hi>France</hi> as it now ſtands, depends upon the Victo<g ref="char:EOLhyphen"/>riouſneſs of this King now injoying the Crown thereof, let us make Inquiry into the Nativity of this Potent Monarch, <hi>Lewis</hi> the <hi>XIV.</hi> He was born the 4th. day of <hi>December,</hi> New-Stile, at nine Minutes twenty four Seconds after Midnight, in the Lati<g ref="char:EOLhyphen"/>tude of 48.51. <hi>North.</hi> The Figure is as followeth.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell> </cell>
+                     <cell>♄ in ♒ 1 3</cell>
+                  </row>
+                  <row>
+                     <cell>M C in ♍ 10 8</cell>
+                     <cell>4 Houſe in ♓ 10 8</cell>
+                  </row>
+                  <row>
+                     <cell>☉ in ♍ 12 42</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>☿ in ♍ 24 41</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>11 Houſe in ♎ 10 13</cell>
+                     <cell>5 Houſe in ♈ 10 13</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>P. F.</hi> in ♎ 12 14</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>12 Houſe in ♏ 1 37</cell>
+                     <cell>6 Houſe in ♉ 1 37</cell>
+                  </row>
+                  <row>
+                     <cell>♃ in ♏ 2 33</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Aſcend. ♏ 22 0</cell>
+                     <cell>7 Houſe ♉ 22 0</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>2 Houſe ♐ 16 12</cell>
+                     <cell>8 Houſe ♊ 16 27</cell>
+                  </row>
+                  <row>
+                     <cell>♂ in ♐ 24 11</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>☋ 4 54</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>☊ in ♋ 4 54</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>3 Houſe in ♑ 25 50</cell>
+                     <cell>9 Houſe ♋ 25 50</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>The Planets Lat.</head>
+                  <row>
+                     <cell>♄</cell>
+                     <cell>0</cell>
+                     <cell>15</cell>
+                     <cell>
+                        <hi>North</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>♃</cell>
+                     <cell>1</cell>
+                     <cell>12</cell>
+                     <cell>
+                        <hi>North</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>♂</cell>
+                     <cell>2</cell>
+                     <cell>28</cell>
+                     <cell>
+                        <hi>South</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>♀</cell>
+                     <cell>0</cell>
+                     <cell>24</cell>
+                     <cell>
+                        <hi>South</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>☿</cell>
+                     <cell>1</cell>
+                     <cell>24</cell>
+                     <cell>
+                        <hi>North</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <g ref="char:Moon">☽</g>
+                     </cell>
+                     <cell>2</cell>
+                     <cell>34</cell>
+                     <cell>
+                        <hi>South</hi>
+                     </cell>
+                  </row>
+               </table>
+            </p>
+            <p>This Nativity was Rectified by Accidents at nine years od months; the <hi>Sun</hi> came to the Square of <hi>Mars;</hi> the <hi>French;</hi> King had then the
+<pb n="27" facs="tcp:93807:18"/>
+               <hi>Small-Pox</hi> at thirteen years od months, the Mid-heaven came to the Square of <hi>Mars,</hi> then he had troubles in <hi>France.</hi>
+            </p>
+            <p>Twenty years od months he had his Mid-heaven to the <hi>Sextile</hi> of <hi>Venus,</hi> and <hi>Sextile</hi> of the <hi>Moon,</hi> at which time he was Married.</p>
+            <p>At twenty years nine months he had his Aſcendant to <hi>Cor Scorpio,</hi> at which time he had a Violent Fea<g ref="char:EOLhyphen"/>ver.</p>
+            <p>Note alſo that the <hi>Poles</hi> of <hi>Poſition</hi> of the <hi>Sun</hi> and <hi>Moon</hi> and <hi>Pars Fortune</hi> are found by the Doctrine of Triangles.</p>
+            <list>
+               <item>The Right <hi>Aſcention</hi> of ☉ is 164 4</item>
+               <item>☉ <hi>Diſtance</hi> from the <hi>Meridian</hi> is 2 22</item>
+               <item>☉ <hi>Aſcential Difference</hi> is 0 17</item>
+               <item>☉ <hi>Pole</hi> of <hi>Poſition</hi> is 2 22</item>
+               <item>☉ <hi>Oblique Aſcention</hi> under that <hi>Pole</hi> is 163 47</item>
+               <item>
+                  <g ref="char:Moon">☽</g> 
+                  <hi>Right Aſcention</hi> with Latitude is 123 50</item>
+               <item>
+                  <g ref="char:Moon">☽</g> 
+                  <hi>Declination</hi> with Latitude is 16 34</item>
+               <item>
+                  <g ref="char:Moon">☽</g> 
+                  <hi>Diſtance</hi> from the <hi>Meridian</hi> is 37 52</item>
+               <item>
+                  <g ref="char:Moon">☽</g> 
+                  <hi>Aſcential Difference</hi> is 9 21</item>
+               <item>
+                  <g ref="char:Moon">☽</g> 
+                  <hi>Pole</hi> of <hi>Poſition</hi> is 28 39</item>
+               <item>
+                  <g ref="char:Moon">☽</g> 
+                  <hi>Oblique Deſcention</hi> under that <hi>Pole</hi> 133 11</item>
+               <item>The <hi>Right Aſcention</hi> of <hi>Part</hi> of <hi>Fortune</hi> is 191 15</item>
+               <item>The <hi>Declination</hi> of <hi>P. F.</hi> is 4 52</item>
+               <item>The <hi>Diſtance</hi> of <hi>P. F.</hi> from the <hi>Meridian</hi> is 29 33</item>
+               <item>The <hi>Aſcential Difference</hi> of <hi>P. F.</hi> is 3 00</item>
+               <item>The <hi>Pole</hi> of <hi>Poſition</hi> of <hi>P. F.</hi> is 31 35</item>
+               <item>The <hi>Oblique Aſcention</hi> of <hi>P. F.</hi> under that <hi>Pole</hi> is 194 15</item>
+            </list>
+            <p>Any one that will be pleaſed to run down the Directions of this mighty Monarch, will find that he hath had his Mid-Heaven paſt the <hi>Sextile</hi> of <hi>Mars,</hi> Lord of the <hi>Aſcendant,</hi> this; cauſed him to proſper in his Arms; this happened in 1679, this mighty Monarch hath in or about <hi>Auguſt</hi> 1683 his <hi>Aſcen<g ref="char:EOLhyphen"/>dant</hi> directed to the body of <hi>Mars</hi> with Latitude; this will bring upon him many Miſeries in Body and Mind; he will go nigh to be in danger of his Life by a Feaver; and as <hi>Mars</hi> is placed in a fiery Sign, and the <hi>Aſcendant</hi> about the ſame time comes
+<pb n="28" facs="tcp:93807:19"/>to the Square of <hi>Mercury,</hi> Lord of the tenth and eighth Houſes; this will aggrevate the Evil much, and will cauſe his Subjects to rebell againſt him, and he will be in danger of Fire or Gun<g ref="char:EOLhyphen"/>ſhot; ſometimes it doth ſignifie a danger of being ſtab'd: and foraſmuch as <hi>Mars</hi> being Lord of the twelfth as well as the <hi>Aſcendant,</hi> bids him beware of being taken Priſoner: and dur<g ref="char:EOLhyphen"/>ing the time that this Direction is operating, the <hi>French</hi> King will be ſubject to have dangerous Falls from Horſeback: and to back this Direction, he hath his <hi>Sun</hi> coming to the Square of <hi>Saturn</hi> Lord of the third in the year 1684: this is alſo a very bad Direction, and brings along with it a great deal of Infelici<g ref="char:EOLhyphen"/>ty to him, a great Decay in his Fortune. Now about this time he looſes all his former Honour both by Land and Sea, he will likewiſe undergo many Dangers, all that he will take in hand for above theſe ſeven years (if he ſhould live ſo long, which I am perſwaded he ſhall not) proſpers ill; let him beware of be<g ref="char:EOLhyphen"/>ing cheated of his Life about <hi>Auguſt</hi> next. If he loſe his Life by any violent means, then any one may ſee there is ſome truth in Art; if he doth eſcape that time with his Life, he will be in great peril thereof; and if it be preſerv<g ref="char:EOLhyphen"/>ed, it will be but for a worſer end, for he will become ei<g ref="char:EOLhyphen"/>ther Baniſhed or Impriſoned ſoon after; but whether by the <hi>Turk</hi> or his own Subjects I leave to time to determine; but ſure I am, that he will become (if he doth eſcape with Life then) one of the miſerableſt Princes in <hi>Eu<g ref="char:EOLhyphen"/>rope.</hi>
+            </p>
+            <p>Better would it have been for him to have been contented with what his Father left him, than to bring ſuch Judgments upon his Head by his being ſo unjuſt.</p>
+            <p>If he had but taken notice of what Mr. <hi>Lilly</hi> wrote in the year 1672 when he made his firſt Attempt upon <hi>Holland,</hi> he might have fared better than he is like to do. His Words are theſe,</p>
+            <p>
+               <hi>A certain kind of Aſtoniſhment,</hi> ſaid he, <hi>ſhall ſurpriſe an active Potent of</hi> Europe, <hi>ſeeing neither his Actions of War or Peace ſuc<g ref="char:EOLhyphen"/>ceed according to his projected Expectations, for he may know that their is an over ruling Power that can contradict all Politick Coun<g ref="char:EOLhyphen"/>ſels, when not grounded upon Equity.</hi> And this he ought to re<g ref="char:EOLhyphen"/>member,
+<pb n="29" facs="tcp:93807:19"/>that he is not the Man ordained to give Laws to his Neighbouring Nations.</p>
+            <p>Indeed he was a Man ordained to bring a great deal of Cala<g ref="char:EOLhyphen"/>mity upon <hi>Europe</hi> in order to prepare Matter for one that ſhall be far greater than he.</p>
+            <p>But were I to write the Calamity that is like to befall the <hi>French</hi> theſe ſucceeding years, it would take up a large Vo<g ref="char:EOLhyphen"/>lumn; but this I will let them know, that the <hi>Commons</hi> of <hi>France</hi> will be in Arms in a ſhort time againſt this preſent King; and I have good reaſon to believe that he, if he lives to ſee but two years, will be driven from his Seat by his own Subjects, and if he doth die before, as I believe he will, then the next King will be ſerved ſo, and the <hi>Turk</hi> will invade his Countrey, and lay many of his Cities waſte; the <hi>Proteſtants</hi> of <hi>France</hi> will joyn with the <hi>Turk</hi> in the doing of it, then will there be great Wo to thoſe <hi>Roman</hi> Clergy, they will have cauſe to curſe the time that over they were born to be the cauſe of ſo much Blood<g ref="char:EOLhyphen"/>ſhed.</p>
+            <p>Neither will <hi>Spain</hi> be free from great Calamity, for he muſt ſtrike his Sail to that mighty Monarch the <hi>Othoman</hi> Emperour. And thou, Oh! <hi>Italy,</hi> hath a great ſhare of this Cup of Gods Wrath, for great will be the Scarcity that will be in thy fruit<g ref="char:EOLhyphen"/>ful Countrey, and a univerſal Plague will overſpread thy Terri<g ref="char:EOLhyphen"/>tories, and the <hi>Turk</hi> will deſtroy with Fire and Sword a great part of thy famous Towns and Cities, and he will come even to the Gates of <hi>Rome</hi> and Saok it as bad as the <hi>Gauls</hi> did, and will keep Poſſeſſion, and deſtroy it with. Fire, and ſtrew Salt upon it, then will the Pope be forced to fly from Place to Place, and ſoon after will there be no more ſuch Cattle in the World.</p>
+            <p>About which time the <hi>Turk</hi> will poſſeſs <hi>Venice,</hi> and will to the grief of all <hi>Chriſtendom</hi> lay that moſt famous. City waſte, and carry the poor, <hi>Italians</hi> into Cap<g ref="char:EOLhyphen"/>tivity.</p>
+            <p>Neither ſhall the <hi>Muſcovite</hi> be free, for the <hi>Tartar</hi> will gain from him a great part of his Countrey on one ſide, and the <hi>Turk</hi> on the other, inſomuch that it will bring great: Calamity upon his Countrey, many of his Towns
+<pb n="30" facs="tcp:93807:20"/>ſhall be deſtroyed by Fire, and his People will be carried into Captivity. That moſt famous Kingdom of <hi>Poland</hi> will be a great Sufferer, inſomuch that the very Key of <hi>Chriſtendom</hi> will be loſt, and his moſt fruitful Territories will be made a Province of the now Emperour of the <hi>Turks.</hi>
+            </p>
+         </div>
+         <div n="5" type="chapter">
+            <head>
+               <hi>CHAP. V.</hi> Of the Opinion of <hi>MAHOMET,</hi> and under what Conſtellation it had its Riſe, and under what Conſtellation it will pleaſe God it ſhall have its Deſolution.</head>
+            <p>THE Opinion of <hi>Mahomet</hi> may be ſaid to have its Riſe at the time that <hi>Mahomet</hi> had his Flight at <hi>Mecca,</hi> being drove from thence by the <hi>Sa<g ref="char:EOLhyphen"/>racens;</hi> and from thence the <hi>Saracens</hi> began their Computation of Years, which was in the year 591; and in the year 590 in <hi>July</hi> there was a Con<g ref="char:EOLhyphen"/>junction of <hi>Saturn</hi> and <hi>Jupiter</hi> in <hi>Gemini,</hi> and about twen<g ref="char:EOLhyphen"/>ty nine Degrees thereof, and upon the ſixth day of <hi>July,</hi> 590 at two Hours fifty three Minutes <hi>Poſt Meridiem,</hi> and the Figure for the Latitude of <hi>Mecca,</hi> which is twenty three Degrees, and is alſo to the Eaſtward of <hi>London</hi> three Hours twenty three Minutes: the Figures for both <hi>London</hi> and <hi>Mecca</hi> are as follow.</p>
+            <pb n="31" facs="tcp:93807:20"/>
+            <p>
+               <table>
+                  <head>MECCA</head>
+                  <row>
+                     <cell>♀ in ♌ 1 53</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>☿ in ♌ 14 16</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>10 Houſe in ♎ 29 14</cell>
+                     <cell>4. Houſe in ♒ 29 4</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>11 Houſe in ♎ 1 13</cell>
+                     <cell>5 Houſe in ♈ 29 10</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>12 Houſe ♎ 29 10</cell>
+                     <cell>6. Houſe ♈ 1 13</cell>
+                  </row>
+                  <row>
+                     <cell>♂ in ♏ 6 29</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Aſcendant ♏ 25 10</cell>
+                     <cell>7 Houſe ♉ 25 10</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>2 Houſe ♐ 22 48</cell>
+                     <cell>8 Houſe ♊ 22 48</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>♃ in ♊ 28 0</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>♄ in ♊ 29 13</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>☉ <g ref="char:Moon">☽</g> in ♋ 16 13</cell>
+                  </row>
+                  <row>
+                     <cell>3 Houſe ♑ 24 33</cell>
+                     <cell>9 Houſe ♋ 24 33</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>LONDON</head>
+                  <row>
+                     <cell>10 Houſe ♊ 10</cell>
+                     <cell>4 Houſe ♐ 10</cell>
+                  </row>
+                  <row>
+                     <cell>♃ in ♊ 28 23</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>♄ in ♊ 29 13</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>☉ <g ref="char:Moon">☽</g> 16 34</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>11 Houſe ♋ 21</cell>
+                     <cell>5 Houſe ♑ 21</cell>
+                  </row>
+                  <row>
+                     <cell>♀ in ♌ 1 53</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>☿ 14 26.</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>12 Houſe ♌ 22</cell>
+                     <cell>6 Houſe ♒ 22</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Aſcendant ♍ 15</cell>
+                     <cell>7 Houſe ♓ 15</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>2 Houſe ♎ 6</cell>
+                     <cell>8 Houſe ♈ 6</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>3 Houſe ♏ 2</cell>
+                     <cell>9 Houſe ♉ 2</cell>
+                  </row>
+                  <row>
+                     <cell>♂ in ♉ 6 29</cell>
+                     <cell> </cell>
+                  </row>
+               </table>
+            </p>
+            <p>Here it is plain to be perceived that <hi>Mahomet</hi> had his Riſe under a Conjunction of <hi>Saturn</hi> and <hi>Jupiter</hi> in <hi>Ge<g ref="char:EOLhyphen"/>mini;</hi> what the reaſon all former Au<g ref="char:EOLhyphen"/>thors imagin<g ref="char:EOLhyphen"/>ed that he had his Riſe under a Conjunction of <hi>Saturn</hi> and <hi>Jupiter</hi> in <hi>Scor<g ref="char:EOLhyphen"/>pio</hi> I know not, there having been no ſuch for above 630 years before.</p>
+            <p>Now here ſinding the <hi>Moon</hi> to be Lady of the ninth Houſe, and placed not far from the Cuſp thereof, and ſhe diſpo<g ref="char:EOLhyphen"/>ing of the <hi>Sun</hi> Lord of the tenth Houſe; from it may be judged that the Law of <hi>Mahomet</hi> is <hi>Lunar,</hi> and by
+<pb n="32" facs="tcp:93807:21"/>reaſon of <hi>Mars</hi> being in Trine to the <hi>Sun</hi> and <hi>Moon,</hi> there being no Planot in Aſpect to them but he; for this cauſe until this preſent time they retain Warlike and <hi>Lunar</hi> Manners, and that Law of his injoyns all kind of rude, groſs, and popu<g ref="char:EOLhyphen"/>lar Things, Pleaſures, Vices, Wickedneſs, Luxuries and Rapes, Wars, Conflicts and Eſſuſion of Blood; and for that <hi>Cancer</hi> upon the Cuſp of the ninth, and ſhe being Lady thereof, there<g ref="char:EOLhyphen"/>fore we conclude the Law of <hi>Mahomet</hi> to be <hi>Lunar;</hi> and by rea<g ref="char:EOLhyphen"/>ſon of <hi>Mars</hi> beholding of the Place of the <hi>Moon</hi> with a Trine out of <hi>Scorpio</hi> his own Sign; it is in part alſo <hi>Martial</hi> (there<g ref="char:EOLhyphen"/>fore according to <hi>Albumazer,</hi> Lib. 1. <hi>differ</hi> three, and four <hi>Mag. Con.</hi>) the <hi>Moon</hi> ſhall ſignifie a rude People, which are ſecluded from all Skilfulneſs by the Judgment of all <hi>Aſtrologers;</hi> therefore that Law is Rude, Groſs and Popular, and an Enemy to Learning, even as the common People are, for by reaſon of the Dominion of <hi>Mars</hi> in the <hi>Watry Triplicity,</hi> and his being in the ſame <hi>Triplicity</hi> in his own Houſe, in Trine to the Ninth, it injoyneth it ſelf to be protected, not by Ar<g ref="char:EOLhyphen"/>guments, but by Arms: hence it is, that whoſoever ſhall but in the leaſt degree ſcandalize their Law, ſhall be ſlain with <hi>Iron;</hi> and becauſe the <hi>Moon</hi> is exceeding ſwift in compariſon of the other Planets, therefore ſhall it vehemently undervalue all other Laws; nor will it be ſaid to be Preſidented by another.</p>
+            <p>Again (to ſpeak <hi>Aſtrologically</hi>) ſeeing that the Faith of <hi>Ma<g ref="char:EOLhyphen"/>homer</hi> remaineth <hi>Martial</hi> and <hi>Lunar,</hi> if we take the great year of both <hi>Mars</hi> and the <hi>Moon,</hi> and the half Summe of both their years, and add to the time of the Riſe of <hi>Mahomet,</hi> it will bring us to the time that Faith ſhall begin to be Abrogated. Now if we add only the great years of <hi>Mars</hi> and the <hi>Moon</hi> to the Riſe of <hi>Mahomet,</hi> that will bring us to the time of their greateſt height; as for <hi>Example:</hi> the great years of <hi>Mars</hi> are 480 years, and the great year of <hi>Luna</hi> is 260 years: theſe two be<g ref="char:EOLhyphen"/>ing added, make 740 years, which 740 years being added unto <hi>Anno Domini</hi> 591, the time that <hi>Mahomet</hi> had his Flight from <hi>Mecca,</hi> that will bring us to 1331, at which time the <hi>Othoman</hi> Family began to gain ground, and the Faith was at the height; then if we add the middle of both their two great years, <hi>Viz.</hi> 270 years to the former year 1331, that
+<pb n="33" facs="tcp:93807:21"/>brings us to 1701; about which time will begin their Con<g ref="char:EOLhyphen"/>verſion to the Faith of Chriſt; but becauſe the hidden Se<g ref="char:EOLhyphen"/>crets of God are impenitrable, therefore we intend only to conjecture ſomewhat about Signs according to the Effects of the Stars, and like one that is <hi>Purblind,</hi> ſeeing afar off, di<g ref="char:EOLhyphen"/>ſcerns only a certain confuſed Shadow reſembling many things, without knowing certainly what it is, by 2 <hi>Apot. Co<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m</hi> 5.</p>
+            <p>In this caſe it will be needful to conſider the two great Stars that appeared fixed ſo long a time; the firſt was that which appeared in the year 1572 in <hi>Caſſiopia</hi> about the twentieth of <hi>October</hi> in 16 <hi>Degrees</hi> 54 <hi>Minutes</hi> of <hi>Taurus,</hi> having 53 <hi>Degrees</hi> 45 <hi>Minutes</hi> of <hi>North</hi> Latitude, it exceeded <hi>Jupiter</hi> and <hi>Venus</hi> in bigneſs, and it appeared ſuddenly, and from the very begin<g ref="char:EOLhyphen"/>ing of an equal magnitude, contrary to the firſt Appearance of all Comets, it alſo fell in exact Oppoſition to the Place of <hi>Mars</hi> in the <hi>New-Moon</hi> preceding that great Conjunction of <hi>Saturn</hi> and <hi>Jupiter</hi> in <hi>Sagittarius, Anno</hi> 14. From hence may be expected great War and Bloodſhed to the <hi>Chriſtians,</hi> with a Decay of <hi>Chriſtianity</hi> in all Places, that is, they ſhall differ in ſome certain Principles, for which they ſhall deſtroy one another, which great Deſtruction will continue in one Place. and another near thirty 3 years, becauſe that at the end of thir<g ref="char:EOLhyphen"/>ty two years, God to the amazing of the whole World ſent another great Star in the year 1604, in 18 <hi>Degrees</hi> of <hi>Sagitta<g ref="char:EOLhyphen"/>rius,</hi> having two Degrees of <hi>North</hi> Latitude; for the Judgment of which I refer you to my <hi>Cataſtrophe Mundi,</hi> wherein I have diſcourſed at large; this Star appeared near in <hi>Oppoſition</hi> to the Place of the Conjunction that preceded the coming of <hi>Ma<g ref="char:EOLhyphen"/>homet;</hi> not only ſo, but <hi>Saturn</hi> and <hi>Jupiter</hi> and <hi>Mars</hi> are alſo in <hi>Oppoſition</hi> to that Conjunction. This Star doth without all doubt fore ſhew the changing of that Opinion to <hi>Chriſtianity,</hi> becauſe the <hi>New-Star</hi> is not far enlongated from that Con<g ref="char:EOLhyphen"/>junction of <hi>Saturn</hi> and <hi>Jupiter</hi> in <hi>Sagittarius,</hi> in the year of our Lord God 14, and by reaſon I ſhall have occaſion to mention this Conjunction often, take the Figure of the <hi>New-Moon</hi> pre<g ref="char:EOLhyphen"/>ceding it, which was on the 9th. day of <hi>January, Anno Domini</hi> 14, near Noon.</p>
+            <pb n="34" facs="tcp:93807:22"/>
+            <p>
+               <table>
+                  <row>
+                     <cell>10 Houſe ♑ 16 14</cell>
+                     <cell>4 Houſe in ♋ 16 14</cell>
+                  </row>
+                  <row>
+                     <cell>☉ <g ref="char:Moon">☽</g> 17 22 ♑</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>♉ 5 33</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>♀ 5 37</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>11 Houſe in ♒ 9 20</cell>
+                     <cell>5 Houſe in ♌ 9 20</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>12 Houſe in ♓ 12 30</cell>
+                     <cell>6 Houſe in ♍ 12 30</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Aſcend. ♈ 25 40</cell>
+                     <cell>7 Houſe ♎ 25 40</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>♂ in ♏ 16 57</cell>
+                  </row>
+                  <row>
+                     <cell>♉</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>2 Houſe ♊ 1 9</cell>
+                     <cell>8 Houſe ♐ 1 9</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>♃ in ♐ 7 22</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>♄ in ♐ 8 28</cell>
+                  </row>
+                  <row>
+                     <cell>3 Houſe ♊ 25 57</cell>
+                     <cell>9 Houſe ♐ 25 37</cell>
+                  </row>
+               </table>
+            </p>
+            <p>This Figure was ſet for the Lati<g ref="char:EOLhyphen"/>tude of <hi>Jeruſa<g ref="char:EOLhyphen"/>lem,</hi> which lyeth to the <hi>Eaſtward</hi> of <hi>London</hi> 3 hours 3 minutes the La<g ref="char:EOLhyphen"/>titude is 32 De<g ref="char:EOLhyphen"/>grees 10 minutes.</p>
+            <p>Here <hi>Jupiter</hi> is Lord of the ninth Houſe in <hi>Sagitta<g ref="char:EOLhyphen"/>rius</hi> ſtrong, diſpo<g ref="char:EOLhyphen"/>ſing of <hi>Saturn</hi> in the Conjunction, and <hi>Saturn</hi> doth diſpoſe of <hi>Sol, Lu<g ref="char:EOLhyphen"/>na, Mercury</hi> and <hi>Venus;</hi> therefore <hi>Jupiter</hi> doth ſignifie <hi>Chriſtianity,</hi> which Faith will laſt till the end of Time, but not without its Ebbing and Flowing.</p>
+            <p>It was concluded by <hi>Tycho</hi> and thoſe <hi>Aſtronomers</hi> in his Days, that thoſe two new Stars were ſuch as never appeared ſince the Beginning of the World, and that they continued each of them in the ſame place in the Heaven they appeared in, above a whole year, and were at length ſucceſſively diſ<g ref="char:EOLhyphen"/>perſed, and therefore are to be accounted Miracles in the Expectation of all Men, but more in their Under<g ref="char:EOLhyphen"/>ſtanding.</p>
+            <p>If we conſider the diſtance of time betwixt the Appear<g ref="char:EOLhyphen"/>ance of the one and the other of theſe new Stars, we ſhall find to be thirty three years, meaſuring out the years of our Saviour. From thence may we conjecture the De<g ref="char:EOLhyphen"/>ſtruction of Monarchies by the Appearance of the firſt Star, and likewiſe the Deſtruction of Antichriſt, and all the <hi>Babel</hi> Opinions of <hi>Chriſtianity.</hi> So likewiſe may be conjectured the Kingdom of Peace by the coming of the ſecond Star in the year 1604, in which all the Nations of the World ſhall know the Lord Jeſus Chriſt to be the Saviour of the World.</p>
+            <pb n="35" facs="tcp:93807:22"/>
+            <p>And foraſmuch as it hath been conjectured that the Downfall of <hi>Antichriſt</hi> ſhould be in the year 1666 after the Worlds Redemption, and they have all along reckoned their time from the Birth of our Saviour: but therein have they been deceived; for it cannot be reck<g ref="char:EOLhyphen"/>oned that the World was Redeemed before Chriſt offer<g ref="char:EOLhyphen"/>ed himſelf a <hi>Living Sacrifice</hi> for all Mankind, which makes thirty three years difference: now if we add thir<g ref="char:EOLhyphen"/>ty three years to 1666, that will bring us to the year 1699 in which year will be laid the Foundation of that Kingdom of Peace, and in which all the World ſhall be bleſ<g ref="char:EOLhyphen"/>ſed.</p>
+            <p>And the Conjunction of <hi>Saturn</hi> and <hi>Jupiter</hi> in <hi>Sagit<g ref="char:EOLhyphen"/>tarius</hi> 1722 will deſtroy all the Opinions of the <hi>Pagans</hi> all over the whole World, and reduce all to the Faith of our Saviour Jeſus Chriſt, but not as it is now Eſta<g ref="char:EOLhyphen"/>bliſhed, for all Contrariety of Opinions will be laid open to the Shame of all thoſe profeſſing of the Name of Chriſt, and that Law ſhall come to be obſerved without Com<g ref="char:EOLhyphen"/>pulſion, <hi>Love thy Neighbour as thy ſelf.</hi> No more cheat<g ref="char:EOLhyphen"/>ing of the World with Shadows, but God will ſend down his Spirit upon all his Miniſters in ſuch a manner, that all Nations ſhall ſubmit to <hi>Mount Zion,</hi> and Mankind throughout all the World ſhall love God with all their Hearts, and Juſtice will flow like Rivers of Water through all Nations. Oh! Lord, if it be thy Will haſten this time for thy Son's Sake.</p>
+         </div>
+         <div n="6" type="chapter">
+            <pb n="36" facs="tcp:93807:23"/>
+            <head>
+               <hi>CHAP. VI.</hi> Being a Suplement to the Judgments of Comets, Where in the two late Comets <hi>(Viz.)</hi> that which appeared in the year <hi>1680,</hi> and that which appeared in <hi>1682,</hi> are <hi>Aſtrologically</hi> handled.</head>
+            <p>BEfore we come to write our particular Judgment of theſe two <hi>Comets,</hi> it will be needful that we conſider a time when to ſet a Figure of that, from thence a Judg<g ref="char:EOLhyphen"/>ment may be drawn according to Art. Now that time I take to be the time, as ſoon as the Day-light Would permit, and that was at an hour after <hi>Sun</hi> ſet, the 17th. day of <hi>December</hi> 1680. The Figure is as followeth.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell>10 Houſe ♓ 11</cell>
+                     <cell>4 Houſe ♍ 18</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <g ref="char:Moon">☽</g> in ♓ 23 30</cell>
+                     <cell>♂ in ♍ 20 26</cell>
+                  </row>
+                  <row>
+                     <cell>11 Houſe ♈ 27 52</cell>
+                     <cell>5 Houſe ♎ 27 52</cell>
+                  </row>
+                  <row>
+                     <cell>♃ in ♊ 8 13</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>12 Houſe ♊ 17 33</cell>
+                     <cell>6 Houſe ♐ 17 33</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>☉ in ♑ 6 56</cell>
+                  </row>
+                  <row>
+                     <cell>Aſcendant ♋ 18 21</cell>
+                     <cell>7 Houſe ♑ 18 21</cell>
+                  </row>
+                  <row>
+                     <cell>♃ in ♋ 20 31</cell>
+                     <cell>♀ in ♑ 21 4</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>in ♑ 21 30</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>♀ in ♒ 4 3<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>2 Houſe ♌ 7 48</cell>
+                     <cell>8 Houſe ♒ 7 48</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>3 Houſe ♌ 25 9</cell>
+                     <cell>9 Houſe ♒ 25 9</cell>
+                  </row>
+               </table>
+            </p>
+            <p>In this Figure you will find <hi>Saturn</hi> to be Lord of the 9th. and <hi>Jupiter</hi> Lord of the 10th. both of them in a very dejected condi<g ref="char:EOLhyphen"/>tion: <hi>Saturn</hi> doth repre<g ref="char:EOLhyphen"/>ſent all Matters of Reli<g ref="char:EOLhyphen"/>gion; and by reaſon of <hi>Mercury</hi> being Lord of the 12th. and 4th. is ex<g ref="char:EOLhyphen"/>act <hi>Oppoſition</hi> to <hi>Saturn</hi> alſo, he being in <hi>Con<g ref="char:EOLhyphen"/>junction</hi> of the <hi>Comet.</hi> This according to Art ſhould ſhew great trouble and Vexation to all thoſe
+<pb n="37" facs="tcp:93807:23"/>that retain Principles contrary to thoſe Eſtabliſhed by Authori<g ref="char:EOLhyphen"/>ty; they will have great Loſſes as to their Moveables: for which many of them will fly from one place to another, in hopes to better themſelves: and foraſmuch as <hi>Mars</hi> being Lord of the 11th. Houſe, and being placed in the fourth in <hi>Op<g ref="char:EOLhyphen"/>poſition</hi> to the <hi>Moon</hi> Lady of the Aſcendant. Now the Aſcen<g ref="char:EOLhyphen"/>dant according to all <hi>Aſtrologers,</hi> doth repreſent the common People; the 10th. Houſe, all Magiſtrates; the 2d. the Mo<g ref="char:EOLhyphen"/>veables of the Common People; the 11th. the Aſſiſtance of the Magiſtrates; the 9th. all Matter relating to both Law and Re<g ref="char:EOLhyphen"/>ligion of the Common People. From theſe Conſiderations may be drawn a <hi>Judgment Aſtrological;</hi> firſt you will find both the <hi>Comet</hi> and <hi>Mercury</hi> in <hi>Oppoſition</hi> to the <hi>Aſcendant,</hi> and <hi>Sa<g ref="char:EOLhyphen"/>turn</hi> Lord of the 9th. <hi>Saturn</hi> diſpoſing of both <hi>Sol, Mercury, Ve<g ref="char:EOLhyphen"/>nus</hi> and the <hi>Comet;</hi> both <hi>Saturn</hi> and <hi>Jupiter</hi> and very weak. What theſe may ſignifie according to Art, I leave the Artiſt to conſider: it will alſo be neceſſary for the young Artiſt to ſet a Figure for the time that the <hi>Comet</hi> is firſt ſeen after it en<g ref="char:EOLhyphen"/>ters a Sign.</p>
+            <p>By which means there may be a diſcovery made what the ſignification of a <hi>Comet</hi> ſhould be, and what Nation of the World ſhould be moſt paſſive as to its Effects: when this <hi>Co<g ref="char:EOLhyphen"/>met</hi> firſt entred <hi>Aquarius</hi> you will find <hi>Cancer</hi> Aſcendant, and <hi>Saturn</hi> in the Aſcendant, and <hi>Mercury</hi> in <hi>Oppoſition</hi> to him: <hi>Mars</hi> in <hi>Oppoſition</hi> to the tenth, the <hi>Dragons-head</hi> in the 10th. alſo; <hi>Venus</hi> in <hi>Oppoſition</hi> to the 2d. Houſe, and <hi>Jupiter</hi> Lord of the 10th. in <hi>Gemini</hi> Retrograde: when the <hi>Comet</hi> entred <hi>Piſcis</hi> you will find <hi>Cancer</hi> alſo aſcend, and <hi>Saturn</hi> in the 12th. the <hi>Moon</hi> in <hi>Oppoſition</hi> to <hi>Venus</hi> near the Cuſp of the 8th. the <hi>Op<g ref="char:EOLhyphen"/>poſition</hi> of <hi>Mars</hi> Lord of the 10th. and to the Square of <hi>Jupi<g ref="char:EOLhyphen"/>ter</hi> Lord of the 9th. Theſe are notable Configurations, and will have as notable Events to follow them, were it lawful for any Artiſt to write them, but he that is but meanly verſed in <hi>Aſtrology</hi> may know the ſignification of theſe Configurations. Now the Places that will be moſt concerned you may find in my <hi>Cataſtrophe Mundi.</hi> When the <hi>Comet</hi> came to appear firſt in <hi>Aries</hi> you will find <hi>Leo</hi> to aſcend, and <hi>Saturn</hi> Lord of both 6th. 7th. and 8th. in the 12th. in <hi>Oppoſition</hi> to the <hi>Sun</hi> Lord of the <hi>Aſcendant,</hi> and <hi>Taurus</hi> is in Square to the <hi>Comet,</hi> and
+<pb n="38" facs="tcp:93807:24"/>the <hi>Comet</hi> is near the Cuſp of the 10th. and is haſting with all ſpeed to the Square of <hi>Saturn;</hi> and any one that will be but pleaſed to ſet a Figure for the time (which was <hi>January</hi> 3d. at 45 Minutes after <hi>Sun-ſet</hi>) he will find which way tho <hi>Co<g ref="char:EOLhyphen"/>mets</hi> will bend their Effects moſt: and if you ſet a Figure for the time the <hi>Comet</hi> was firſt ſeen in <hi>Taurus,</hi> you will find the <hi>Comet</hi> upon the Cuſp of the 10th. Houſe, and the <hi>Moon</hi> Lady of the 12th. in Conjunction of the <hi>Comet,</hi> and the <hi>Sun</hi> Lord of the Aſcendant is not far from a Square of the Comet alſo. From theſe Conſiderations may the young Artiſt be able to give a Judgment of this that appeared in the year 1680. Now we will come to conſider the Configuration of the Planets at the firſt Appearance of the Comet in <hi>Leo</hi> 1682, <hi>Auguſt</hi> the 16th. And if we ſet a Figure for an hour after <hi>Sun ſet,</hi> you will find <hi>Aries</hi> to Aſcend, and <hi>Saturn</hi> Lord of the 10th. 11th. and 12th. is in the 6th. in the ſame Sign. Now had this Comet had but ſmall Latitude, it would have been ſet, but by reaſon of its great Latitude it was near the Cuſp of the 8th. Now at the time of theſe <hi>Comets</hi> Appearance in <hi>Leo</hi> we find <hi>Mars</hi> to be in the very beginning of <hi>Leo</hi> alſo, and the <hi>Sun</hi> and <hi>Moon</hi> have lately been in Square one to the other. The 10th. Houſe is <hi>Capricorn,</hi> and <hi>Venus</hi> Lady of the 7th. is in <hi>Libra</hi> ſtrong, and there doth Square the 10th. If any one be but pleaſed to ſet the Figure for the time propoſed, he may the better conſider of it ſtill remembring the Aſcendant to repreſent the Com<g ref="char:EOLhyphen"/>mon People, and the 10th. the Magiſtracy. Now when the <hi>Comet,</hi> entred <hi>Virgo</hi> the Figure is almoſt the ſame, only the <hi>Moon</hi> will be in the ſame Sign with the <hi>Comet;</hi> the <hi>Comet</hi> being viſible in the 7th. Houſe, the Figure being ſet for an hour after <hi>Sun ſet,</hi> for the day the <hi>Comet</hi> entred in each Sign will inform any Artiſt what the ſignification of it may be; yet for the benefit of the Reader I ſhall inſert my Judgment of both theſe <hi>Comets</hi> in general.</p>
+            <p>It bids the <hi>Eaſt</hi> part of <hi>Germany</hi> beware, for they by the protence of this <hi>Comet</hi> are threatned by great Devaſtation by the means of War, the <hi>Turk</hi> will invade him, and will lay waſte many of his Provinces, a mixt ſort of People will over-ſpread <hi>Auſtria,</hi> and all the <hi>Eaſt, North, Weſt,</hi> and <hi>South-Weſt</hi> Parts of <hi>Germany,</hi> the Houſe of <hi>Auſtria</hi> will be brought very low by the hands of both <hi>Turks</hi> and <hi>Chriſtians.</hi>
+            </p>
+            <pb n="39" facs="tcp:93807:24"/>
+            <p>
+               <hi>Poland,</hi> thou art like to have a great Calamity fall upon thee both by the <hi>Turk</hi> and <hi>Tartar,</hi> it is beſt for thee to ſtand upon thy own. Legs, for if thou joyns thy Forces with any Prince againſt <hi>Turk</hi> and <hi>Tartar,</hi> it will be in part thy Ruine: they both will prevail againſt thee in ſuch ſort, that thou wilt wiſh thou hadſt never been born, ſuch Calamity will follow upon it.</p>
+            <p>The <hi>Muſcovite</hi> will do well to look to himſelf, and ſecure his Territories, for there is Vengeance coming upon him in a ſhort time, and that both by <hi>Turk</hi> and <hi>Tartar.</hi>
+            </p>
+            <p>
+               <hi>Swedeland,</hi> if I might be thy Counſellor, reſt in Peace, for thou wilt be very unfortunate in War: but alas! thou wilt not believe it: but know, that if thou wilt dance, the Piper muſt be paid, and if thou doſt go to War with any of thy Neighbours, as I believe thou wilt ſoon, thou wilt repent when it will be too late.</p>
+            <p>And thou, Oh! <hi>Spain</hi> wilt have cauſe to curſe thy Counſellor, for thy Kingdom is like to be brought very low, and for thy Cruelty in the <hi>Weſt-Indies,</hi> ſhalt thou be driven from thence in leſs than 30 years, and thy People ſhall become very poor.</p>
+            <p>
+               <hi>France,</hi> prepare thy ſelf to undergo a ſad Calamity, for there ſhall be a great Rebellion in the Bowels thereof, that ſhall ſhake the Family that now injoys the Crown thereof, if not a quite Overthrow.</p>
+            <p>
+               <hi>Italy,</hi> thou art like to have thy ſhare of trouble, for the <hi>Turk</hi> will over-run thy fruitful Territory, and ſhall lay <hi>Rome</hi> waſte, and drive the <hi>Pope</hi> from thoſe Parts, and ſoon after ſhall there be no more.</p>
+            <p>All thoſe Lands that are ſaid to be under <hi>Cancer</hi> will have great Calamity in general, that is, the poor People will have great loſs as to their Moveables, from which Evil I pray God bleſs <hi>Scotland.</hi>
+            </p>
+            <p>I could tell likewiſe what is like to befall thoſe Places under <hi>Aries,</hi> but the Times will not bear to hear it; therefore I de<g ref="char:EOLhyphen"/>ſire to be excuſed, becauſe I have ſaid ſo much as may ſatisfie any Artiſt in this Point. Therefore my Friends at this time FAREWEL.</p>
+         </div>
+      </body>
+      <back>
+         <div type="advert_for_mathematical_services_and_forthcoming_books">
+            <pb n="40" facs="tcp:93807:25"/>
+            <head>Advertiſements,</head>
+            <p>ARts and Sciences Mathematically Profeſſed and taught by the Author <hi>John Holwell,</hi> Philomat. at his Houſe on the Eaſt ſide of <hi>Spittle Fields,</hi> over againſt <hi>Dorſet ſtreet,</hi> next door to a Gla<g ref="char:EOLhyphen"/>ziers, <hi>(viz.) Arithmetick, Geometry, Gaging, Surveying of Land, Trigonometry, Navigation, Aſtronomy, Dyaling, Geo<g ref="char:EOLhyphen"/>graphy, Fortification and Gunnery, and Aſtrology in all its parts.</hi> He alſo <hi>Meaſureth Building,</hi> and <hi>Surveyeth Land</hi> for any one, having the moſt Experience in <hi>Surveying</hi> of any man in <hi>Eng<g ref="char:EOLhyphen"/>land.</hi>
+            </p>
+            <p>He hath alſo ready for the Preſſe and will ſhortly be made publick a ſmall price of <hi>Dialling,</hi> called, <hi>Clavis Horologie,</hi> wherein ſhall be ſhewn how to make all manner of <hi>Regular Dyals,</hi> and how to reduce all <hi>Irregular Dyals</hi> to Regular Forms, by means of a new latitude and new declination. And alſo a Table of <hi>Altitude</hi> of the Sun for every hour of the day in the beginning of each Sign from one degree of <hi>Latitude</hi> to ninety, and their Application for placing of the Fur<g ref="char:EOLhyphen"/>niture on all manner of Dyals however ſcituated with the manner of making the Dyals that was in the Kings privy-Garden, with a ma<g ref="char:EOLhyphen"/>ny Varieties that were never before made publick.</p>
+            <p>
+               <hi>A</hi> Sure Guide to the <hi>Practical Surveyor,</hi> in two parts. The firſt ſhowing how to Plot all manner of Grounds, whether ſmall <hi>In<g ref="char:EOLhyphen"/>cloſures, Champain-Ground, Wood-Lands, Mountains, and Dales, by the Semicircle, Plain Table and Chain.</hi> As alſo how to find the <hi>Area,</hi> or contents thereof, with the manner of protract<g ref="char:EOLhyphen"/>ing, Reducing, and Dividing the ſame, and alſo how to incloſe a Mannor lying in a common Field, with the drawing of a perfect Draught or Map thereof, and how to deck and beautifie the ſame. And likewiſe how to convey water from any ſpring-head, to any ap<g ref="char:EOLhyphen"/>pointed place. The ſecond ſhewing how to take the Ground-Plot of any City or Corporation. As alſo the Menſuration of Roads, High<g ref="char:EOLhyphen"/>wayes, and Rivers, with he manner of making a Map of any Coun<g ref="char:EOLhyphen"/>try or Kingdome: <hi>The Like never before extant. By</hi>
+            </p>
+            <byline>
+               <hi>John Holwell</hi> Philomath.</byline>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:93807:25"/>
+         </div>
+      </back>
+   </text>
+</TEI>
